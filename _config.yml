@@ -1,27 +1,27 @@
 # Title of your blog; shows in the header
-name: "ogaclejapan.IO"
+name: "xinyuhua.IO"
 
 # Description of your content (will only be used on Google Search)
-description: "My personal blog about the development"
+description: "This site is derived from Materi theme, thanks to ogaclejapan"
 
 # Your name. Will show in your footer + sidebar
-author: "ogaclejapan"
+author: "Xinyu Hua"
 lang: ja
-timezone: Asia/Tokyo
+timezone: Asia/Shanghai
 
-url: "http://www.ogaclejapan.com"
+url: "http://xinyuhua.github.io"
 baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "Server-side Java and Android Software Engineer. Sometimes, I will design for personal products. I use the Sketch app :)"
+author-bio: " Junior year student in SJTU, this is my first blog, and this blog is derived from Jekyll theme Materi, which is the work of ogaclejapan"
 
 # Social Accounts (mine, as placeholders)
 
-twitter: ogaclejapan
-github: ogaclejapan
+twitter: 
+github: xinyuhua
 dribbble:
 instagram:
-googleplus: 115224314007024961072
+googleplus: 107580920695347076057
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
