@@ -45,6 +45,9 @@
       <nav>
         <h6>Follow me on</h6>
         <ul>
+          {% if site.adapt %}
+          <li><a target="_blank" href="http://adapt.seiee.sjtu.edu.cn/{{ site.adapt }}">ADAPT</a></li>
+          {% endif %}
           {% if site.twitter %}
           <li><a target="_blank" href="http://twitter.com/{{ site.twitter }}">Twitter</a></li>
           {% endif %}
@@ -67,6 +70,7 @@
         <ul>
           <li><a href="{{ site.baseurl }}/">Home</a></li>
           <li><a href="{{ site.baseurl }}/tags/">Tags</a></li>
+          <li><a href="{{ site.adapturl }}/">ADAPT</a></li>
         </ul>
       </nav>
     </div>
