@@ -1,0 +1,56 @@
+/usr/bin/ruby.exe -r ./siteconf20150515-6880-14f0ut.rb extconf.rb
+checking for ffi_call() in -lffi... yes
+checking for ffi_prep_closure()... yes
+checking for ffi_raw_call()... no
+checking for rb_thread_blocking_region()... yes
+checking for rb_thread_call_with_gvl()... yes
+checking for rb_thread_call_without_gvl()... yes
+checking for ffi_prep_cif_var()... yes
+creating extconf.h
+creating Makefile
+
+make "DESTDIR=" clean
+rm -f 
+rm -f ffi_c.so  *.o  *.bak mkmf.log .*.time
+
+make "DESTDIR="
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o AbstractMemory.o -c AbstractMemory.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o ArrayType.o -c ArrayType.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o Buffer.o -c Buffer.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o Call.o -c Call.c
+Call.c: 在函数‘do_blocking_call’中:
+Call.c:368:5: 警告：隐式声明函数‘rb_thread_call_without_gvl’ [-Wimplicit-function-declaration]
+     rbffi_thread_blocking_region(call_blocking_function, data, (void *) -1, NULL);
+     ^
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o ClosurePool.o -c ClosurePool.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o DataConverter.o -c DataConverter.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o DynamicLibrary.o -c DynamicLibrary.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o ffi.o -c ffi.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o Function.o -c Function.c
+Function.c: 在函数‘async_cb_event’中:
+Function.c:563:9: 警告：隐式声明函数‘rb_thread_call_without_gvl’ [-Wimplicit-function-declaration]
+         rb_thread_call_without_gvl(async_cb_wait, &w, async_cb_stop, &w);
+         ^
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o FunctionInfo.o -c FunctionInfo.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o LastError.o -c LastError.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o LongDouble.o -c LongDouble.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o MappedType.o -c MappedType.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o MemoryPointer.o -c MemoryPointer.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o MethodHandle.o -c MethodHandle.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o Platform.o -c Platform.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o Pointer.o -c Pointer.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o Struct.o -c Struct.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o StructByReference.o -c StructByReference.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o StructByValue.o -c StructByValue.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o StructLayout.o -c StructLayout.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o Thread.o -c Thread.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o Type.o -c Type.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o Types.o -c Types.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DRUBY_EXTCONF_H=\"extconf.h\"     -ggdb -O2 -pipe -Wimplicit-function-declaration     -o Variadic.o -c Variadic.c
+rm -f ffi_c.so
+gcc -shared -o ffi_c.so AbstractMemory.o ArrayType.o Buffer.o Call.o ClosurePool.o DataConverter.o DynamicLibrary.o ffi.o Function.o FunctionInfo.o LastError.o LongDouble.o MappedType.o MemoryPointer.o MethodHandle.o Platform.o Pointer.o Struct.o StructByReference.o StructByValue.o StructLayout.o Thread.o Type.o Types.o Variadic.o -L. -L/usr/lib -L. -fstack-protector  -Wl,--export-all-symbols -Wl,--enable-auto-image-base,--enable-auto-import    -lruby200 -lffi  -lffi -lpthread -lrt -ldl -lcrypt  
+
+make "DESTDIR=" install
+/usr/bin/mkdir -p ./.gem.20150515-6880-1mzza11
+exit > .RUBYARCHDIR.time
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20150515-6880-1mzza11

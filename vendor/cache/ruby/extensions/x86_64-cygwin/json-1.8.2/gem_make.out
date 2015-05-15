@@ -1,0 +1,10 @@
+/usr/bin/ruby.exe -r ./siteconf20150510-8280-1u8628y.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+rm -f .so  *.o  *.bak mkmf.log .*.time
+
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+make "DESTDIR=" install

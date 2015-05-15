@@ -1,0 +1,49 @@
+/usr/bin/ruby.exe -r ./siteconf20150510-8280-ydqh2y.rb extconf.rb
+checking for random()... yes
+checking for srandom()... yes
+checking for rand()... yes
+checking for srand()... yes
+checking size of unsigned long... 8
+checking size of unsigned int... 4
+checking size of unsigned int... 4
+creating Makefile
+
+make "DESTDIR=" clean
+rm -f 
+rm -f rdiscount.so  *.o  *.bak mkmf.log .*.time
+
+make "DESTDIR="
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o amalloc.o -c amalloc.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o basename.o -c basename.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o Csio.o -c Csio.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o css.o -c css.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o docheader.o -c docheader.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o dumptree.o -c dumptree.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o emmatch.o -c emmatch.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o flags.o -c flags.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o generate.o -c generate.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o github_flavoured.o -c github_flavoured.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o html5.o -c html5.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o markdown.o -c markdown.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o mkdio.o -c mkdio.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o mktags.o -c mktags.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o pgm_options.o -c pgm_options.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o rdiscount.o -c rdiscount.c
+rdiscount.c: 在函数‘rb_rdiscount_to_html’中:
+rdiscount.c:50:5: 警告：隐式声明函数‘rb_rdiscount__get_flags’ [-Wimplicit-function-declaration]
+     int flags = rb_rdiscount__get_flags(self);
+     ^
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o resource.o -c resource.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o setup.o -c setup.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o tags.o -c tags.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o toc.o -c toc.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o version.o -c version.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o xml.o -c xml.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I. -DHAVE_RANDOM -DHAVE_SRANDOM -DHAVE_RAND -DHAVE_SRAND -DSIZEOF_UNSIGNED_LONG=8 -DSIZEOF_UNSIGNED_INT=4 -DSIZEOF_UNSIGNED_INT=4 -DVERSION=\"2.1.7\"     -ggdb -O2 -pipe -Wimplicit-function-declaration    -o xmlpage.o -c xmlpage.c
+rm -f rdiscount.so
+gcc -shared -o rdiscount.so amalloc.o basename.o Csio.o css.o docheader.o dumptree.o emmatch.o flags.o generate.o github_flavoured.o html5.o markdown.o mkdio.o mktags.o pgm_options.o rdiscount.o resource.o setup.o tags.o toc.o version.o xml.o xmlpage.o -L. -L/usr/lib -L. -fstack-protector -Wl,--export-all-symbols -Wl,--enable-auto-image-base,--enable-auto-import    -lruby200  -lpthread -lrt -ldl -lcrypt  
+
+make "DESTDIR=" install
+/usr/bin/mkdir -p ./.gem.20150510-8280-5w1joa
+exit > .RUBYARCHDIR.time
+/usr/bin/install -c -m 0755 rdiscount.so ./.gem.20150510-8280-5w1joa

@@ -1,0 +1,17 @@
+/usr/bin/ruby.exe -r ./siteconf20150510-8280-1v1lok6.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+rm -f 
+rm -f stemmer.so  *.o  *.bak mkmf.log .*.time
+
+make "DESTDIR="
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I.    -ggdb -O2 -pipe -Wimplicit-function-declaration    -o porter.o -c porter.c
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I.    -ggdb -O2 -pipe -Wimplicit-function-declaration    -o porter_wrap.o -c porter_wrap.c
+rm -f stemmer.so
+gcc -shared -o stemmer.so porter.o porter_wrap.o -L. -L/usr/lib -L. -fstack-protector -Wl,--export-all-symbols -Wl,--enable-auto-image-base,--enable-auto-import    -lruby200  -lpthread -lrt -ldl -lcrypt  
+
+make "DESTDIR=" install
+/usr/bin/mkdir -p ./.gem.20150510-8280-y1q3l
+exit > .RUBYARCHDIR.time
+/usr/bin/install -c -m 0755 stemmer.so ./.gem.20150510-8280-y1q3l

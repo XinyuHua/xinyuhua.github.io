@@ -1,0 +1,216 @@
+/usr/bin/ruby.exe -r ./siteconf20150510-8280-1owely3.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+rm -f 
+rm -f yajl.so  *.o  *.bak mkmf.log .*.time
+
+make "DESTDIR="
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I.    -ggdb -O2 -pipe -Wimplicit-function-declaration   -Wall -funroll-loops  -o yajl.o -c yajl.c
+yajl.c: 在函数‘yajl_status_to_string’中:
+yajl.c:61:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl.c: 在函数‘yajl_alloc’中:
+yajl.c:105:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl.c: 在函数‘yajl_reset_parser’中:
+yajl.c:110:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl.c: 在函数‘yajl_free’中:
+yajl.c:119:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl.c: 在函数‘yajl_parse’中:
+yajl.c:128:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl.c: 在函数‘yajl_parse_complete’中:
+yajl.c:140:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl.c: 在函数‘yajl_get_error’中:
+yajl.c:147:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl.c: 在函数‘yajl_get_bytes_consumed’中:
+yajl.c:154:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl.c: 在函数‘yajl_free_error’中:
+yajl.c:162:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I.    -ggdb -O2 -pipe -Wimplicit-function-declaration   -Wall -funroll-loops  -o yajl_alloc.o -c yajl_alloc.c
+yajl_alloc.c: 在函数‘yajl_set_default_alloc_funcs’中:
+yajl_alloc.c:64:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I.    -ggdb -O2 -pipe -Wimplicit-function-declaration   -Wall -funroll-loops  -o yajl_buf.o -c yajl_buf.c
+yajl_buf.c: 在函数‘yajl_buf_alloc’中:
+yajl_buf.c:78:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_buf.c: 在函数‘yajl_buf_free’中:
+yajl_buf.c:85:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_buf.c: 在函数‘yajl_buf_append’中:
+yajl_buf.c:96:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_buf.c: 在函数‘yajl_buf_clear’中:
+yajl_buf.c:102:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_buf.c: 在函数‘yajl_buf_data’中:
+yajl_buf.c:107:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_buf.c: 在函数‘yajl_buf_len’中:
+yajl_buf.c:112:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_buf.c: 在函数‘yajl_buf_truncate’中:
+yajl_buf.c:119:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I.    -ggdb -O2 -pipe -Wimplicit-function-declaration   -Wall -funroll-loops  -o yajl_encode.o -c yajl_encode.c
+yajl_encode.c: 在函数‘yajl_string_encode2’中:
+yajl_encode.c:99:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_encode.c: 在函数‘yajl_string_encode’中:
+yajl_encode.c:52:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_encode.c: 在函数‘yajl_string_decode’中:
+yajl_encode.c:201:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I.    -ggdb -O2 -pipe -Wimplicit-function-declaration   -Wall -funroll-loops  -o yajl_ext.o -c yajl_ext.c
+yajl_ext.c: 在函数‘rb_yajl_parser_parse’中:
+yajl_ext.c:471:17: 警告：变量‘stat’被设定但未被使用 [-Wunused-but-set-variable]
+     yajl_status stat;
+                 ^
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I.    -ggdb -O2 -pipe -Wimplicit-function-declaration   -Wall -funroll-loops  -o yajl_gen.o -c yajl_gen.c
+yajl_gen.c: 在函数‘yajl_gen_alloc2’中:
+yajl_gen.c:132:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_alloc’中:
+yajl_gen.c:71:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_free’中:
+yajl_gen.c:139:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_integer’中:
+yajl_gen.c:211:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_double’中:
+yajl_gen.c:231:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_number’中:
+yajl_gen.c:241:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_string’中:
+yajl_gen.c:254:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_null’中:
+yajl_gen.c:264:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_bool’中:
+yajl_gen.c:276:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_map_open’中:
+yajl_gen.c:289:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_map_close’中:
+yajl_gen.c:303:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_array_open’中:
+yajl_gen.c:315:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_array_close’中:
+yajl_gen.c:328:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_get_buf’中:
+yajl_gen.c:338:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_gen.c: 在函数‘yajl_gen_clear’中:
+yajl_gen.c:344:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I.    -ggdb -O2 -pipe -Wimplicit-function-declaration   -Wall -funroll-loops  -o yajl_lex.o -c yajl_lex.c
+yajl_lex.c: 在函数‘yajl_lex_alloc’中:
+yajl_lex.c:130:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_lex.c: 在函数‘yajl_lex_realloc’中:
+yajl_lex.c:141:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_lex.c: 在函数‘yajl_lex_free’中:
+yajl_lex.c:149:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_lex.c: 在函数‘yajl_lex_lex’中:
+yajl_lex.c:673:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_lex.c: 在函数‘yajl_lex_error_to_string’中:
+yajl_lex.c:708:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_lex.c: 在函数‘yajl_lex_get_error’中:
+yajl_lex.c:718:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_lex.c: 在函数‘yajl_lex_current_line’中:
+yajl_lex.c:723:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_lex.c: 在函数‘yajl_lex_current_char’中:
+yajl_lex.c:728:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_lex.c: 在函数‘yajl_lex_peek’中:
+yajl_lex.c:748:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I.    -ggdb -O2 -pipe -Wimplicit-function-declaration   -Wall -funroll-loops  -o yajl_parser.o -c yajl_parser.c
+yajl_parser.c: 在函数‘yajl_render_error_string’中:
+yajl_parser.c:126:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+yajl_parser.c: 在函数‘yajl_do_parse’中:
+yajl_parser.c:449:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+gcc -I. -I/usr/include/ruby-2.0.0 -I/usr/include/ruby-2.0.0/ruby/backward -I/usr/include/ruby-2.0.0 -I.    -ggdb -O2 -pipe -Wimplicit-function-declaration   -Wall -funroll-loops  -o yajl_version.o -c yajl_version.c
+yajl_version.c: 在函数‘yajl_version’中:
+yajl_version.c:6:1: 警告：可见性属性在此配置下不受支持；已忽略 [-Wattributes]
+ }
+ ^
+rm -f yajl.so
+gcc -shared -o yajl.so yajl.o yajl_alloc.o yajl_buf.o yajl_encode.o yajl_ext.o yajl_gen.o yajl_lex.o yajl_parser.o yajl_version.o -L. -L/usr/lib -L. -fstack-protector -Wl,--export-all-symbols -Wl,--enable-auto-image-base,--enable-auto-import    -lruby200  -lpthread -lrt -ldl -lcrypt  
+
+make "DESTDIR=" install
+/usr/bin/mkdir -p ./.gem.20150510-8280-1c4unl0/yajl
+exit > .RUBYARCHDIR.time
+/usr/bin/install -c -m 0755 yajl.so ./.gem.20150510-8280-1c4unl0/yajl

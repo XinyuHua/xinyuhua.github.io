@@ -1,0 +1,10 @@
+/usr/bin/ruby.exe -r ./siteconf20150510-8280-i1qjck.rb extconf.rb
+
+make "DESTDIR=" clean
+make: *** No rule to make target 'clean'¡£ Í£Ö¹¡£
+
+make "DESTDIR="
+make: Nothing to be done for 'default'.
+
+make "DESTDIR=" install
+make: Nothing to be done for 'install'.
