@@ -41,7 +41,7 @@ Some facts about me:
 5. I was born in China, so I am a native Chinese speaker, but I also learned Japanese since when I was around 12 years old so I 
 could speak conversational Japanese. English, of course is also one of the languages that I speak. 
 
-6. I owe a dog named Cong Cong.
+6. I own a dog named Cong Cong.
 
 ## このブログに関する (About this blog)
 
