@@ -14,7 +14,7 @@ baseurl: ""
 adapturl: "http://adapt.seiee.sjtu.edu.cn"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "I am a Junior year student in SJTU, this is my first blog, and this blog is derived from Jekyll theme Materi, which is the work of ogaclejapan"
+author-bio: "I am a Junior year student in CS, this is my first blog, and this blog is derived from Jekyll theme Materi, which is the work of ogaclejapan"
 
 # Social Accounts (mine, as placeholders)
 
