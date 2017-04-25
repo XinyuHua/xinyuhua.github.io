@@ -1,55 +1,36 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Xinyu Hua</title>
-    <link href="bootstrap.css" rel="stylesheet">
-    <style type="text/css">
-    p {
-       font-size: 18px;
-    }
-    li {
-       font-size: 18px;
-       padding: 11px 0px;
-    }
-    
-    </style>
-</head>
+---
+layout: default
+---
 
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-<body>
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-10 col-xs-offset-1">
-                <div class="row">
-                    <div class="col-xs-4">
-                        <br>
-                        <img src="resources/portrait.PNG" style="width:70%;max-width:200px">
-                    </div>
-                    <div class="col-xs-8">
-                        <h1 style="font-size:32pt">Xinyu Hua</h1>
-                        <p> I'm a first year Ph.D. student in Computer Science at Northeastern University. I work with <a href="http://www.ccs.neu.edu/home/luwang/"> Prof. Lu Wang </a> on Natural Language Processing. </p>
-                        <p> Prior to that I spent 4 years at Shanghai Jiao Tong University studying Computer Science </p> 
-                        <p> Currently I'm working on Domain Adaptation for summarization. We want to characterize the difference usage of language 
-                            under different genres and domains </p>
-                        <p> Email: [hua.x]@husky.neu.edu</a> </p>
-                                           </div>
-                </div>
-                <br>
-                <div class="row">
-                        <h2> Papers </h2>
-                        <ul>
-                            <li>
-                            <b>Understanding and Detecting Diverse Supporting Arguments on Controversial Issues </b> <br>
-                            Xinyu Hua and Lu Wang. <br> 
-                            <i>ACL</i>, 2017. <br>
-                                [<a href="resources/acl2017.pdf">paper</a>]
-                                [<a href="resources/acl2017_guideline.txt">guideline</a>]
-                                [<a href="resources/acl2017_data.txt">dataset</a>]
-                            </li>
-                        </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
