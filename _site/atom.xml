@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Xinyu Hua</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-04-26T18:30:05-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>A Study On The Diversity Of Supporting Argument in Online Debate</title>
+   <link href="http://localhost:4000/2017/04/26/argument-type/"/>
+   <updated>2017-04-26T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2017/04/26/argument-type</id>
+   <content type="html">&lt;p&gt;This is the work we submitted to ACL 2017. We study the way human debaters pick and combine different kinds of information
+from online documents to form a persuasive and coherent argument.
+Usually gathering relevant documents and potential references is not hard, given the power of the Internet. 
+But choosing the most related and synthesizing those arguments together can be very challenging.
+We want to classify different kinds of arguments and see how people choose among them given different context.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
