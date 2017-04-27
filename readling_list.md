@@ -7,16 +7,29 @@ title: Reading List
 
 ## Natural Language Generation (NLG)
 
-* Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation<br>*Albert Gatt*<br>
-<a href="{{ site.url }}/annotation.zip">pdf</a>
-
+* <ins><a href="https://arxiv.org/pdf/1703.09902.pdf">Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation</a></ins><br>*Albert Gatt*<br>
 
 ## Generated Adversarial Network (GAN)
 
-* Generated Adversarial Network <br>*Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio*<br>
-Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), short paper, 2017. To Appear.
+* <ins><a href="https://arxiv.org/pdf/1406.2661.pdf">Generated Adversarial Network</a></ins> <br>*Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio*<br>
+
+* <ins><a href="https://arxiv.org/pdf/1701.00160.pdf">NIPS 2016 Tutorial: Generative Adversarial Networks</a></ins><br>*Ian Goodfellow*<br>
+
+* <ins><a href="https://arxiv.org/pdf/1701.07875.pdf">Wasserstein GAN</a></ins> <br>*Martin Arjovsky, Soumith Chintala, and Leon Bottou*<br>
+
+* <ins><a href="https://arxiv.org/pdf/1704.00028.pdf">Improved Training of Wasserstein GANs</a></ins> <br>*Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, and Aaron Courville*<br>
+
+* <ins><a href="https://arxiv.org/pdf/1511.06434.pdf">Unsupervised Representation Learning With Deep Convolutional Generative Adversarial Networks</a></ins><br>*Alec Radford, Luke Metz, and Soumith Chintala*<br>
+
+* <ins><a href="https://arxiv.org/pdf/1606.03657.pdf">InfoGAN: Interpretable Representation Learning By Information Maximizing Generative Adversarial Nets</a></ins><br>*Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, and Pieter Abbeel*<br> 
+
+* <ins><a href="https://arxiv.org/pdf/1606.03498.pdf">Improved Techniques for Training GANs</a></ins><br>*Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, and Xi Chen*<br>
+
 
 ## Abstract Meaning Representation (AMR)
 
-* Neural AMR: Sequence-to-Sequence Models for Parsing and Generation <br> *Ioannis Konstas, Srinivasan Iyer, Mark Yatskar, Yejin Choi, and Luke Zettlemoyer* <br>
-Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), 2017. To Appear.
+* <ins><a href="https://www.google.com">Neural AMR: Sequence-to-Sequence Models for Parsing and Generation</a></ins> <br> *Ioannis Konstas, Srinivasan Iyer, Mark Yatskar, Yejin Choi, and Luke Zettlemoyer* <br>
+
+## Abstractive Summarization
+
+* <ins><a href="https://arxiv.org/pdf/1704.04368.pdf">Get To The Point: Summarization with Pointer-Generator Networks</a></ins><br>*Abigail See, Peter J. Liu, and Christopher D. Manning*<br>

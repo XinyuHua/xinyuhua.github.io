@@ -1,0 +1,26 @@
+label scheme ver 0.3: (latest):
+1.  study:  Results or(and) discoveries, usually quantitative, as a result of some research investment, including scientific or non-scientific. For example, polls, crime rates, school work performance, figures, tables, etc
+
+2.  factual:  Description of some occurred events or facts, or chapters in law or declarations. Usually without research investment. For example, results of votes, issuance of laws, description of principle, description of objective environments. (Survey can be study or factual, depending on the nature, i.e. if it involves research investment, or if its purpose is to provide evidence for some hypothesis)(Is estimated, expected to xxx could also be factual if it's not study)
+
+3.  opinion:  Quotes from some person or group; or evaluation, stance from the author of the article. Usually contains sentiments. For example, comments on laws and policies, judgement of events.(Assumption, speculation, evaluation can also be considered as opinion in addition to sentiment or opinionated sentences)
+
+4.  reasoning:  Logical structure, usually contains causal relations. For example, how oil extraction breaks ecosystem.
+
+Annotation method and some common scenarios:
+1.  annotate at the beginning of the line, starting wtih '-', followed by types for that sentence, and an ending '-'
+2.  if there are unresolved coreference, breaking quote, try look up two or three sentences, and annotate all of those if they make sense and resolve the unclear information( these sentences altogether is called a segment )
+3.  try to limit to one segment, unless there are some equally relevant ones
+4.  If there is one exact matching of citing sentence in the article, and it is short or it is part of quote, look two sentences beyond to see if include previous sentences make more sense(because citing sentence might not be accurate, author might cite the article because of multiple sentences)
+5.  If there is no other sentence relevant use title, otherwise not.
+6.  If there is no relevant sentence, annotate nothing.
+7.  If the article is another page in idebate website, don't annotate
+8.  If the major information in cited sentence is one type A, minor information is type B, and citing sentence only uses minor information, then cited sentence should be type B
+
+How to deal with unclear cases:
+1.  Types of anomaly:(Defined as instances where no sentence could be labeled)
+    a). Wrong or corrupted article. Including i). graphic, charts, pdf and other formats unconvertable to plain text
+        ii). URL was wrong
+    b). Correct article, but are irrelevant(Should be rare)
+    c). Correct and relevant article, but none single sentence(including title) fits in label scheme giving citing sentence(prominent, for example citing sentence is a summarization of article, or article is provided as a reference only to explain concepts in citing sentence or named entity)
+    d). No sentence in body could be annotated, but title could
