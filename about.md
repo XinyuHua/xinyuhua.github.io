@@ -11,3 +11,8 @@ title: About
 
 * <ins><a href="{{ site.resourceurl }}/acl2017/acl2017.pdf">Understanding and Detecting Diverse Supporting Arguments on Controversial Issues</a></ins> <br> *Xinyu Hua and Lu Wang.*<br>
 Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), short paper, 2017. To Appear.
+
+## For fun
+
+I have a cute poodle named Cong Cong (meaning smart smart in Chinese).
+<img src="{{site.resourceurl}}/photos/cong.jpg" />
