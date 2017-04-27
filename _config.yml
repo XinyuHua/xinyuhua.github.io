@@ -10,6 +10,8 @@ title:            Xinyu Hua
 tagline:          'Research Homepage'
 description:      'This website is built on <a href="http://lanyon.getpoole.com" target="_blank">Lanyon</a> theme in <a href="http://jekyllrb.com" target="_blank">Jekyll</a>'
 url:              http://lanyon.getpoole.com
+baseurl:          
+resourceurl:      '/resources'
 
 author:
   name:           'Mark Otto'

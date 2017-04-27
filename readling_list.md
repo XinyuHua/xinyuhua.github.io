@@ -5,6 +5,12 @@ title: Reading List
 
 <p> The following reading list is for 2017 Summer. </p>
 
+## Natural Language Generation (NLG)
+
+* Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation<br>*Albert Gatt*<br>
+<a href="{{ site.url }}/annotation.zip">pdf</a>
+
+
 ## Generated Adversarial Network (GAN)
 
 * Generated Adversarial Network <br>*Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio*<br>
