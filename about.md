@@ -15,4 +15,4 @@ Proceedings of the 55th Annual Meeting of the Association for Computational Ling
 ## For fun
 
 I have a cute poodle named Cong Cong (meaning smart smart in Chinese).
-<img src="{{site.resourceurl}}/photos/cong.jpg" style="width:128px;height:128px;"> />
+<img src="{{site.resourceurl}}/photos/cong.jpg" style="width:600px;height:500px;" >
