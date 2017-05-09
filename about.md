@@ -11,7 +11,7 @@ title: About
 
 * <ins><a href="{{ site.resourceurl }}/acl2017/acl2017.pdf">Understanding and Detecting Supporting Arguments of Diverse Types </a></ins> <br> *Xinyu Hua and Lu Wang.*<br>
 Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), short paper, 2017. To Appear.
-<br>[<ins><a href="{{ site.resourceurl }}/acl2017/acl2017.pdf">pdf</a></ins>][<ins><a href="https://arxiv.org/abs/1705.00045">Arxiv</a></ins>][<ins><a href="{{ site.resourceurl }}/bibtex/understanding-detecting.bib">bibtex</a></ins>][<ins><a href="{{ site.url }}/Resources">data</a></ins>]
+<br>[<ins><a href="{{ site.resourceurl }}/acl2017/acl2017.pdf">pdf</a></ins>][<ins><a href="https://arxiv.org/abs/1705.00045">arxiv</a></ins>][<ins><a href="{{ site.resourceurl }}/bibtex/understanding-detecting.bib">bibtex</a></ins>][<ins><a href="{{ site.url }}/Resources">data</a></ins>]
 
 ## For fun
 
