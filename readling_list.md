@@ -9,6 +9,19 @@ title: Reading List
 
 * <ins><a href="https://arxiv.org/pdf/1703.09902.pdf">Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation</a></ins><br>*Albert Gatt*<br>
 
+* <ins><a href="http://www.aclweb.org/anthology/P/P10/P10-1056.pdf">Automatic Evaluation of Linguistic Quality in Multi-Document Summarization</a></ins><br>*Emily Pitler, Annie Louis and Ani Nenkova*<br>
+
+
+## Reinforcement Learning (RL)
+
+* <ins><a href="https://arxiv.org/pdf/1705.04304.pdf">A Deep Reinforced Model for Abstractive Summarization</a></ins><br>*Romain Paulus, Caiming Xiong, Richard Socher*<br>
+
+* <ins><a href="https://arxiv.org/pdf/1612.00563.pdf">Self-critical Sequence Training for Image Captioning</a></ins><br>*Steven J. Rennie, Etienne Marcheret, Youssef Mroueh, Jarret Ross, Vaibhava Goel*<br>
+
+* <ins><a href="http://www.mit.edu/~jnt/Papers/J094-03-kon-actors.pdf">ON ACTOR-CRITIC ALGORITHMS</a></ins><br>*Vijay R. Konda, John N. Tsitsiklis*<br>
+
+* <ins><a href="https://youtu.be/2pWv7GOvuf0">Online course given by David Silver</a></ins>
+
 ## Generated Adversarial Network (GAN)
 
 * <ins><a href="https://arxiv.org/pdf/1406.2661.pdf">Generated Adversarial Network</a></ins> <br>*Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio*<br>
@@ -40,3 +53,5 @@ title: Reading List
 
 * <ins><a href="https://arxiv.org/pdf/1704.04368.pdf">Get To The Point: Summarization with Pointer-Generator Networks</a></ins><br>*Abigail See, Peter J. Liu, and Christopher D. Manning*<br>
 [<a href="{{site.resourceurl}}/bibtex/get-to-the-point.bib">bibtex</a>][<a href="http://cs.stanford.edu/people/abisee/acl2017poster.pdf">poster</a>]<br>
+
+* <ins><a href="https://openreview.net/pdf?id=H1Gq5Q9el">Unsupervised Pretraining for Sequence to Sequence Learning</a></ins> <br> *Prajit Ramachandran, Peter J. Liu, Quoc V. Le* <br>
