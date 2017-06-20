@@ -55,3 +55,7 @@ title: Reading List
 [<a href="{{site.resourceurl}}/bibtex/get-to-the-point.bib">bibtex</a>][<a href="http://cs.stanford.edu/people/abisee/acl2017poster.pdf">poster</a>]<br>
 
 * <ins><a href="https://openreview.net/pdf?id=H1Gq5Q9el">Unsupervised Pretraining for Sequence to Sequence Learning</a></ins> <br> *Prajit Ramachandran, Peter J. Liu, Quoc V. Le* <br>
+
+## Style Transfer
+
+* <ins><a href="https://arxiv.org/pdf/1705.09655.pdf">Style Transfer from Non-Parallel Text by Cross-Alignment</a></ins><br> *Tianxiao Shen, Tao Lei, Regina Barzilay, and Tommi Jaakkola*<br>
