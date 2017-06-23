@@ -31,7 +31,7 @@ _citing_sentence: sentence used by human editors when citing this document. (Str
 _doc_body: a list of sentences in the document. (list of String)
 _labeled_lineIDs: a list of line IDs that are labeled by annotators. (list of Integer)
 _labels: a list of labels corresponding to _labeled_lineIDs. (list of list of String)
-
+_split: portion of data partition, one of 'train', 'valid', and 'test'. (String)
 
 
 ====  II. Contact ====
