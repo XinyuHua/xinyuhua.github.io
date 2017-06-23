@@ -20,7 +20,12 @@ title: Reading List
 
 * <ins><a href="http://www.mit.edu/~jnt/Papers/J094-03-kon-actors.pdf">ON ACTOR-CRITIC ALGORITHMS</a></ins><br>*Vijay R. Konda, John N. Tsitsiklis*<br>
 
+* <ins><a href="https://arxiv.org/pdf/1511.06732.pdf">Sequence Level Training with Recurrent Neural Networks</a></ins><br>*Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba*<br><a href="https://github.com/facebookresearch/MIXER">[code]</a><br>
+
+* <ins><a href="https://openreview.net/pdf?id=SJDaqqveg">An Actor-Critic Algorithm For Sequence Prediction</a></ins><br>*Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Aaron Courville, Ryan Lowe, Joelle Pineau, Yoshua Bengio*<br><a href="https://github.com/facebookresearch/MIXE://github.com/rizar/actor-critic-public">[code]</a><br>
+
 * <ins><a href="https://youtu.be/2pWv7GOvuf0">Online course given by David Silver</a></ins>
+
 
 ## Generated Adversarial Network (GAN)
 
