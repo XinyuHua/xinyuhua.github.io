@@ -64,3 +64,5 @@ title: Reading List
 ## Style Transfer
 
 * <ins><a href="https://arxiv.org/pdf/1705.09655.pdf">Style Transfer from Non-Parallel Text by Cross-Alignment</a></ins><br> *Tianxiao Shen, Tao Lei, Regina Barzilay, and Tommi Jaakkola*<br>
+
+
