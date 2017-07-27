@@ -18,10 +18,10 @@ For example, suppose we want to construct some arguments for how video game can 
 Specifically, we first characterize the type of arguments as *Study, Factual, Opinion,* and *Reasoning*.
 Like many other texts in natural language, it is almost impossible to fully classify all types of arguments by merely four types. We think these four types are the most fundamental and independent ones (even though we still found some arguments lie in the boundary of two or more types).
 
-* **Study** asd
-* **Factual** asd
-* **Opinion** asd
-* **Reasoning** ads
+* **Study** A 2015 peer-reviewed study found "compelling evidence that the use of realistic controllers can have a significant effect on the level of cognitive aggression."
+* **Factual** The 18-year old gunman who killed 9 people in Munich Germany, on Friday was a fan of first-person shooter video games.
+* **Opinion** As a parent and grandparent, I think it is important people know everything they can about the extremely violent nature of some of these games.
+* **Reasoning** Violent video games require active participation and identification with violent characters, which reinforces violent behavior.
 
 So why would we need this type information? We conjecture that for different debate topics and claims, humans have tendencies to use different types of arguments. Knowing the type of a candidate argument can help us to decide if it might be a proper argument for the given claim. For example, if the claim is very general, like _Video games are bad for young people_, there are wider selection of arguments than a claim like _Video games lead to cognitive aggression_. Also for such specific claim, results from research studies are preferred than incidental events or logical reasoning.
 
