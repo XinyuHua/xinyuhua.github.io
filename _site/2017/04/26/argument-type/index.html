@@ -10,7 +10,7 @@
 
   <title>
     
-      A Study On The Diversity Of Supporting Argument in Online Debate &middot; Xinyu Hua
+      A Study On The Diversity Of Supporting Arguments in Online Debate &middot; Xinyu Hua
     
   </title>
 
@@ -108,13 +108,36 @@
 
       <div class="container content">
         <div class="post">
-  <h1 class="post-title">A Study On The Diversity Of Supporting Argument in Online Debate</h1>
+  <h1 class="post-title">A Study On The Diversity Of Supporting Arguments in Online Debate</h1>
   <span class="post-date">26 Apr 2017</span>
-  <p>This is the work we submitted to ACL 2017. We study the way human debaters pick and combine different kinds of information
-from online documents to form a persuasive and coherent argument.
-Usually gathering relevant documents and potential references is not hard, given the power of the Internet. 
-But choosing the most related and synthesizing those arguments together can be very challenging.
-We want to classify different kinds of arguments and see how people choose among them given different context.</p>
+  <p><em>“He disliked contradiction, and still more, arguments that were continually skipping from one thing to another, introducing new and disconnected points, so that there was no knowing to which to reply.”</em></p>
+
+<p><em>– Leo Tolstoy, Anna Karenina</em></p>
+
+<p>This is the work we submitted to ACL 2017. We study the way human debaters pick and combine different kinds of information from online documents to form a persuasive and coherent argument.</p>
+
+<p>Usually gathering relevant documents and potential references is not hard, given the power of the Internet and search engine. 
+But choosing the most related argument sentences and synthesizing them together can be very challenging.</p>
+
+<p><img src="/resources/photos/video-game.jpg" style="width:720px;height:350px;" />
+For example, suppose we want to construct some arguments for how video game can lead to youth violence. What people usually do is to find some facts, evidence, or quotes to support this claim. We aim to automate this process by searching through documents and ranking sentences according to how likely they will be chosen by human editors.</p>
+
+<p>Specifically, we first characterize the type of arguments as <em>Study, Factual, Opinion,</em> and <em>Reasoning</em>.
+Like many other texts in natural language, it is almost impossible to fully classify all types of arguments by merely four types. We think these four types are the most fundamental and independent ones (even though we still found some arguments lie in the boundary of two or more types).</p>
+
+<ul>
+  <li><strong>Study</strong> asd</li>
+  <li><strong>Factual</strong> asd</li>
+  <li><strong>Opinion</strong> asd</li>
+  <li><strong>Reasoning</strong> ads</li>
+</ul>
+
+<p>So why would we need this type information? We conjecture that for different debate topics and claims, humans have tendencies to use different types of arguments. Knowing the type of a candidate argument can help us to decide if it might be a proper argument for the given claim. For example, if the claim is very general, like <em>Video games are bad for young people</em>, there are wider selection of arguments than a claim like <em>Video games lead to cognitive aggression</em>. Also for such specific claim, results from research studies are preferred than incidental events or logical reasoning.</p>
+
+<p>To include the type information for relevant argument detection, we design a special feature set which we called <em>Composite Features</em> in our paper. The idea is simple, for each single feature we create four feature functions, each corresponding to one type. And after applying our type prediction model, we only set one of those four feature values to the actual feature values, and let all others to be zero. Experimental results proved the effectiveness of using such feature sets, which also suggests the type information helps.</p>
+
+<p>For details of this work please refer to <a href="/Resources">our paper</a>.</p>
+
 
 </div>
 

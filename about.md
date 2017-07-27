@@ -3,18 +3,32 @@ layout: page
 title: About
 ---
 
-<p> I am a first year Ph.D. student at Northeastern University. I work with <a href="http://www.ccs.neu.edu/home/luwang/"> Prof. Lu Wang </a> on Natural Language Processing. </p>
-<p> Prior to that I spent 4 years at <a href="http://adapt.seiee.sjtu.edu.cn/"> Shanghai Jiao Tong University </a> studying Computer Science. I was a member of <a href="http://adapt.seiee.sjtu.edu.cn/"> ADAPT </a> lab directed by Prof. Kenny Zhu. </p> 
-<p> Currently I'm working on Natural Language Generation, Summarization, and Chinese Named Entity Linking. </p>
+ I am a first year Ph.D. student at Northeastern University. I work with [Prof. Lu Wang][lu_hp] on Natural Language Processing. <br>
+ Prior to that I spent 4 years at [Shanghai Jiao Tong University][sjtu_hp] studying Computer Science. I was a member of [ADAPT][adapt_hp] lab directed by Prof. Kenny Zhu. <br>
+ Currently I'm working on Natural Language Generation, Summarization, and Chinese Named Entity Linking. 
 
 ## Publication list
 ### Conference
 
-* <ins><a href="{{ site.resourceurl }}/acl2017/acl2017.pdf">Understanding and Detecting Supporting Arguments of Diverse Types </a></ins> <br> *Xinyu Hua and Lu Wang.*<br>
+* __Understanding and Detecting Supporting Arguments of Diverse Types__ <br> *Xinyu Hua* and Lu Wang.<br>
 Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), short paper, 2017. To Appear. *Outstanding paper*
-<br>[<ins><a href="{{ site.resourceurl }}/acl2017/acl2017.pdf">pdf</a></ins>][<ins><a href="https://arxiv.org/abs/1705.00045">arxiv</a></ins>][<ins><a href="{{ site.resourceurl }}/bibtex/understanding-detecting.bib">bibtex</a></ins>][<ins><a href="{{ site.url }}/Resources">data</a></ins>]
+<br>[[pdf][acl_pdf]] [[arxiv][acl_arxiv]] [[bibtex][acl_bib]] [[post][acl_post]]
 
 ### Peer-reviewed Workshop
 
-* <ins><a href="{{ site.resourceurl }}/emnlp2017/emnlp2017_workshop.pdf">A Pilot Study of Domain Adaptation Effect for Neural Abstractive Summarization</a></ins> <br> *Xinyu Hua and Lu Wang.*<br>
+* __A Pilot Study of Domain Adaptation Effect for Neural Abstractive Summarization__ <br> *Xinyu Hua* and Lu Wang.<br>
 Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short paper, 2017. To Appear. 
+<br>[[pdf][emnlp_pdf]][[arxiv][emnlp_arxiv]][[bibtex][emnlp_bib]]
+
+[lu_hp]: http://www.ccs.neu.edu/home/luwang/
+[adapt_hp]: http://adapt.seiee.sjtu.edu.cn/
+[sjtu_hp]: http://www.sjtu.edu.cn/
+
+[acl_pdf]: {{ site.resourceurl }}/acl2017/acl2017.pdf
+[acl_arxiv]: https://arxiv.org/abs/1705.00045
+[acl_bib]: {{ site.resourceurl }}/bibtex/acl2017.bib
+[acl_post]: {{ site.baseurl }}/2017/04/26/argument-type/
+[acl_data]: {{ site.url }}/Resources
+[emnlp_arxiv]: https://arxiv.org/abs/1707.07062
+[emnlp_pdf]: {{ site.resourceurl }}/emnlp2017/emnlp2017_workshop.pdf
+[emnlp_bib]: {{ site.resourceurl }}/bibtex/emnlp2017.bib
