@@ -12,4 +12,4 @@ Proceedings of the 55th Annual Meeting of the Association for Computational Ling
 [acl_anno]:{{ site.resourceurl }}/acl2017/annotation.json
 [acl_readme]:{{ site.resourceurl }}/acl2017/argument_README.txt
 [acl_guideline]: {{ site.resourceurl }}/acl2017/annotation_guideline.txt
-[acl_errata]: {{site.url}}/acl2017/acl2017_errata.pdf
+[acl_errata]: {{site.resourceurl}}/acl2017/acl2017_errata.pdf

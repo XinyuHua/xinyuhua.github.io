@@ -29,7 +29,7 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [acl_bib]: {{ site.resourceurl }}/bibtex/acl2017.bib
 [acl_post]: {{ site.baseurl }}/2017/04/26/argument-type/
 [acl_data]: {{ site.url }}/Resources
-[acl_errata]: {{site.url}}/acl2017/acl2017_errata.pdf
+[acl_errata]: {{site.resourceurl}}/acl2017/acl2017_errata.pdf
 
 [emnlp_arxiv]: https://arxiv.org/abs/1707.07062
 [emnlp_pdf]: {{ site.resourceurl }}/emnlp2017/emnlp2017_workshop.pdf
