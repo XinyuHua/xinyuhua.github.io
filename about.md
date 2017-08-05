@@ -12,7 +12,7 @@ title: About
 
 * __Understanding and Detecting Supporting Arguments of Diverse Types__ <br> *Xinyu Hua* and Lu Wang.<br>
 Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), short paper, 2017. To Appear. *Outstanding paper*
-<br>[[pdf][acl_pdf]] [[arxiv][acl_arxiv]] [[bibtex][acl_bib]] [[resource][acl_data]][[post][acl_post]][[errata][acl_errata]]
+<br>[[pdf][acl_pdf]] [[arxiv][acl_arxiv]] [[bibtex][acl_bib]] [[resource][acl_data]][[post][acl_post]][[errata][acl_errata]] [[slides][acl_slides]]
 
 ### Peer-reviewed Workshop
 
@@ -30,6 +30,8 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [acl_post]: {{ site.baseurl }}/2017/04/26/argument-type/
 [acl_data]: {{ site.url }}/Resources
 [acl_errata]: {{site.resourceurl}}/acl2017/acl2017_errata.pdf
+[acl_slides]: {{site.resourceurl}}/acl2017/ACL.pdf
+
 
 [emnlp_arxiv]: https://arxiv.org/abs/1707.07062
 [emnlp_pdf]: {{ site.resourceurl }}/emnlp2017/emnlp2017_workshop.pdf
