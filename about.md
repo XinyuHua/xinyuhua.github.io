@@ -18,7 +18,7 @@ Proceedings of the 55th Annual Meeting of the Association for Computational Ling
 
 * __A Pilot Study of Domain Adaptation Effect for Neural Abstractive Summarization__ <br> *Xinyu Hua* and Lu Wang.<br>
 Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short paper, 2017. To Appear. 
-<br>[[pdf][emnlp_pdf]][[arxiv][emnlp_arxiv]][[bibtex][emnlp_bib]]
+<br>[[pdf][emnlp_pdf]][[arxiv][emnlp_arxiv]][[bibtex][emnlp_bib]][[poster][emnlp_poster]]
 
 [lu_hp]: http://www.ccs.neu.edu/home/luwang/
 [adapt_hp]: http://adapt.seiee.sjtu.edu.cn/
@@ -35,4 +35,5 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 
 [emnlp_arxiv]: https://arxiv.org/abs/1707.07062
 [emnlp_pdf]: {{ site.resourceurl }}/emnlp2017/emnlp2017_workshop.pdf
+[emnlp_poster]: {{ site.resourceurl }}/emnlp2017/emnlp2017_poster.pdf
 [emnlp_bib]: {{ site.resourceurl }}/bibtex/emnlp2017.bib
