@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
- I am a first year Ph.D. student at Northeastern University. I work with [Prof. Lu Wang][lu_hp] on Natural Language Processing. <br>
+ I am a second year Ph.D. student at Northeastern University. I work with [Prof. Lu Wang][lu_hp] on Natural Language Processing. <br>
  Prior to that I spent 4 years at [Shanghai Jiao Tong University][sjtu_hp] studying Computer Science. I was a member of [ADAPT][adapt_hp] lab directed by Prof. Kenny Zhu. <br>
- Currently I'm working on Natural Language Generation, Summarization, and Chinese Named Entity Linking. 
+ Currently I'm working on Natural Language Generation, Argument Mining, and Chinese Named Entity Linking. 
 
 ## Publication list
 ### Conference
