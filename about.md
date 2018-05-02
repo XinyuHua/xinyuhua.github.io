@@ -10,14 +10,17 @@ title: About
 ## Publication list
 ### Conference
 
+* __Neural Argument Generation Augmented with Externally Retrieved Evidence__ <br> *Xinyu Hua* and Lu Wang. <br>
+Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL), To Appear , 2018. 
+
 * __Understanding and Detecting Supporting Arguments of Diverse Types__ <br> *Xinyu Hua* and Lu Wang.<br>
-Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), short paper, 2017. To Appear. *Outstanding paper*
+Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), short paper, 2017. *Outstanding paper*
 <br>[[pdf][acl_pdf]] [[arxiv][acl_arxiv]] [[bibtex][acl_bib]] [[resource][acl_data]][[post][acl_post]][[errata][acl_errata]] [[slides][acl_slides]]
 
 ### Peer-reviewed Workshop
 
 * __A Pilot Study of Domain Adaptation Effect for Neural Abstractive Summarization__ <br> *Xinyu Hua* and Lu Wang.<br>
-Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short paper, 2017. To Appear. 
+Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short paper, 2017. 
 <br>[[pdf][emnlp_pdf]][[arxiv][emnlp_arxiv]][[bibtex][emnlp_bib]][[poster][emnlp_poster]][[data split][emnlp_split]]
 
 [lu_hp]: http://www.ccs.neu.edu/home/luwang/
