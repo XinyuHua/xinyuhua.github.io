@@ -6,7 +6,7 @@ title: Resources
 # Dataset for our ACL 2018 paper
 * <ins><a href="{{ site.resourceurl }}/acl2018/acl2018.pdf">Neural Argument Generation Augmented with Externally Retrieved Evidence </a></ins> <br> *Xinyu Hua and Lu Wang.*<br>
 Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL), _To Appear_, 2018. <br>
-[[Dataset][acl18_data]][[readme][acl18_readme]]
+[[dataset][acl18_data]][[readme][acl18_readme]][[project][acl18_project]]
 
 # Dataset for our ACL 2017 paper
 * <ins><a href="{{ site.resourceurl }}/acl2017/acl2017.pdf">Understanding and Detecting Supporting Arguments of Diverse Types </a></ins> <br> *Xinyu Hua and Lu Wang.*<br>
@@ -22,3 +22,4 @@ Proceedings of the 55th Annual Meeting of the Association for Computational Ling
 
 [acl18_readme]:{{ site.resourceurl }}/acl2018/README.txt
 [acl18_data]:https://drive.google.com/open?id=1qyFP9zi9PMvQI7hERoP-X1YHly1dw9Fw
+[acl18_project]:https://xinyuhua.github.io/neural-argument-generation/
