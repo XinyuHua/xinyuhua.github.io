@@ -21,5 +21,5 @@ Proceedings of the 55th Annual Meeting of the Association for Computational Ling
 [acl17_errata]: {{site.resourceurl}}/acl2017/acl2017_errata.pdf
 
 [acl18_readme]:{{ site.resourceurl }}/acl2018/README.txt
-[acl18_data]:https://drive.google.com/open?id=1qyFP9zi9PMvQI7hERoP-X1YHly1dw9Fw
+[acl18_data]:https://drive.google.com/open?id=1Vfn8TWmtts_NneGNpd-aqQEJDqt5J6c6
 [acl18_project]:https://xinyuhua.github.io/neural-argument-generation/

@@ -1,5 +1,5 @@
-Argument Generation datasets collected from ChangeMyView, ver 1.0 (first released in May 2018)
-Project url: http://xinyuhua.github.io/Resources/
+Argument Generation datasets collected from ChangeMyView, ver 1.1 (first released in May 2018, modified in Aug 2018)
+Project url:
 
 Distributed together with:
 
@@ -26,7 +26,9 @@ If you use these datasets, please cite:
 ===== Content ======
 
 I. Description of the datasets
-II. Contact
+II. Change log
+III. Contact
+
 
 
 ===== I. Description of the datasets =====
@@ -105,6 +107,15 @@ pretrain_dataset/:
     This directory contains pre-training dataset. It includes root and non-root replies (but need to be replying directly to the OP poster), in both politics and non-politics threads. We use them to initialize a vanilla sequence-to-sequence model, therefore we do not include retrieval results for them.
 
 
-===== II. Contact =====
+
+===== II. Change log =====
+
+2018/08/23: the following files have been changed because part of them (<ctx> part) are not fully tokenized. The updated files are tokenized by using nltk.word_tokenize().
+    - trainable/train_core_sample3.src
+    - trainable/valid_core_sample3.src
+    - test/with_oracle_evidence/test.src
+    - test/with_system_evidence/test_system.src
+
+===== III. Contact =====
 
 Should you have any question, please contact Xinyu Hua at hua.x@husky.neu.edu. 
