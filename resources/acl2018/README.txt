@@ -1,5 +1,5 @@
 Argument Generation datasets collected from ChangeMyView, ver 1.1 (first released in May 2018, modified in Aug 2018)
-Project url:
+Project url: http://xinyuhua.github.io/Resources/
 
 Distributed together with:
 
