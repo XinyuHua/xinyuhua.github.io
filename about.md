@@ -12,7 +12,7 @@ title: About
 
 * __Neural Argument Generation Augmented with Externally Retrieved Evidence__ <br> *Xinyu Hua* and Lu Wang. <br>
 Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL), 2018. 
-<br>[[pdf][acl18_pdf]] [[arxiv][acl18_arxiv]] [[bibtex][acl18_bib]] [[resource][acl17_data]]  [[appendix][acl18_supp]] [[slides][acl18_slides]]
+<br>[[pdf][acl18_pdf]] [[arxiv][acl18_arxiv]] [[bibtex][acl18_bib]] [[resource][acl17_data]]  [[appendix][acl18_supp]] [[slides][acl18_slides]] [[poster][acl18_poster]]
 
 * __Understanding and Detecting Supporting Arguments of Diverse Types__ <br> *Xinyu Hua* and Lu Wang.<br>
 Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), short paper, 2017. *Outstanding paper*
@@ -49,3 +49,4 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [acl18_arxiv]: https://arxiv.org/abs/1805.10254
 [acl18_data]: {{ site.url }}/Resources
 [acl18_slides]: {{site.resourceurl}}/acl2018/acl2018_slides.pdf
+[acl18_poster]: {{site.resourceurl}}/acl2018/acl2018_poster_ver1.pdf
