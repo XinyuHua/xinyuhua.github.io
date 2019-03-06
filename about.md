@@ -10,6 +10,9 @@ title: About
 ## Publication list
 ### Conference
 
+* __Argument Mining for Understanding Peer Reviews__ <br> *Xinyu Hua*, Mitko Nikolov, Nikhil Badugu, Lu Wang <br>
+Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019), short paper (To Appear)
+
 * __Neural Argument Generation Augmented with Externally Retrieved Evidence__ <br> *Xinyu Hua* and Lu Wang. <br>
 Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL), 2018. 
 <br>[[pdf][acl18_pdf]] [[arxiv][acl18_arxiv]] [[bibtex][acl18_bib]] [[resource][acl17_data]]  [[appendix][acl18_supp]] [[slides][acl18_slides]] [[poster][acl18_poster]]
