@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Argument Mining for Understanding Peer Reviews
-permalink: /Resources/naacl19
+permalink: /Resources/naacl19/
 ---
 
 ### _Xinyu Hua_, Mitko Nikolov, Nikhil Badugu, and Lu Wang 
