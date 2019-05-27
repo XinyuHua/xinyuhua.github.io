@@ -6,9 +6,14 @@ title: About
  I am a third year Ph.D. student at Northeastern University. I work with [Prof. Lu Wang][lu_hp] on Natural Language Processing. <br>
  Prior to that I spent 4 years at [Shanghai Jiao Tong University][sjtu_hp] studying Computer Science. I was a member of [ADAPT][adapt_hp] lab directed by Prof. Kenny Zhu. <br>
  Currently I'm working on Natural Language Generation, Argument Mining, and Chinese Named Entity Linking. 
+ 
+ I'm interning at IBM Watson from June-Sept 2019.
 
 ## Publication list
 ### Conference
+
+* __Argument Generation with Retrieval, Planning, and Realization__ <br> *Xinyu Hua*, Zhe Hu, Lu Wang <br>
+Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019. 
 
 * __Argument Mining for Understanding Peer Reviews__ <br> *Xinyu Hua*, Mitko Nikolov, Nikhil Badugu, Lu Wang <br>
 Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019), short paper (To Appear)
