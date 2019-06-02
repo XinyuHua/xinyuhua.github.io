@@ -13,7 +13,8 @@ title: About
 ### Conference
 
 * __Argument Generation with Retrieval, Planning, and Realization__ <br> *Xinyu Hua*, Zhe Hu, Lu Wang <br>
-Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019. 
+Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019. (To Appear)
+<br> [[page][acl19_page]] 
 
 * __Argument Mining for Understanding Peer Reviews__ <br> *Xinyu Hua*, Mitko Nikolov, Nikhil Badugu, Lu Wang <br>
 Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019), short paper (To Appear)
@@ -65,4 +66,5 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [naacl19_data]: {{site.resourceurl}}/naacl2019/naacl19_dataset.zip
 [naacl19_bib]:  {{site.resourceurl}}/bibtex/naacl2019.bib
 [naacl19_arxiv]: https://arxiv.org/abs/1903.10104
- 
+
+[acl19_page]: /Resources/acl19/
