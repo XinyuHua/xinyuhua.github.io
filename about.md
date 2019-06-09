@@ -14,11 +14,11 @@ title: About
 
 * __Argument Generation with Retrieval, Planning, and Realization__ <br> *Xinyu Hua*, Zhe Hu, Lu Wang <br>
 Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019. (To Appear)
-<br> [[page][acl19_page]] 
+<br> [[page][acl19_page]] [[pdf][acl19_pdf]] [[bibtex][acl19_bib]]
 
 * __Argument Mining for Understanding Peer Reviews__ <br> *Xinyu Hua*, Mitko Nikolov, Nikhil Badugu, Lu Wang <br>
 Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019), short paper (To Appear)
-<br> [[page][naacl19_page]] [[pdf][naacl19_pdf]] [[arxiv][naacl19_arxiv]] [[data][naacl19_data]] [[bibtex][naacl19_bib]]
+<br> [[page][naacl19_page]] [[pdf][naacl19_pdf]] [[arxiv][naacl19_arxiv]] [[data][naacl19_data]] [[bibtex][naacl19_bib]] [[slides][naacl19_slides]]
 
 * __Neural Argument Generation Augmented with Externally Retrieved Evidence__ <br> *Xinyu Hua* and Lu Wang. <br>
 Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL), 2018. 
@@ -65,6 +65,10 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [naacl19_pdf]: {{site.resourceurl}}/naacl2019/naacl19_paper.pdf
 [naacl19_data]: {{site.resourceurl}}/naacl2019/naacl19_dataset.zip
 [naacl19_bib]:  {{site.resourceurl}}/bibtex/naacl2019.bib
+[naacl19_slides]: {{site.resourceurl}}/naacl2019/slides_final.pdf
 [naacl19_arxiv]: https://arxiv.org/abs/1903.10104
 
 [acl19_page]: /Resources/acl19/
+[acl19_pdf]: {{site.resourceurl}}/acl2019/acl2019.pdf
+[acl19_bib]: {{site.resourceurl}}/bibtex/acl19.bib
+
