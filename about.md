@@ -70,5 +70,5 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 
 [acl19_page]: /Resources/acl19/
 [acl19_pdf]: {{site.resourceurl}}/acl2019/acl2019.pdf
-[acl19_bib]: {{site.resourceurl}}/bibtex/acl19.bib
+[acl19_bib]: {{site.resourceurl}}/bibtex/acl2019.bib
 
