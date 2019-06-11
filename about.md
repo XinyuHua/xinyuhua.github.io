@@ -7,14 +7,14 @@ title: About
  Prior to that I spent 4 years at [Shanghai Jiao Tong University][sjtu_hp] studying Computer Science. I was a member of [ADAPT][adapt_hp] lab directed by Prof. Kenny Zhu. <br>
  Currently I'm working on Natural Language Generation, Argument Mining, and Chinese Named Entity Linking. 
  
- I'm interning at IBM Watson from June-Sept 2019.
+ I'm interning at IBM Research AI from June-Sept 2019, working with [Avi Sil][avi_hp].
 
 ## Publication list
 ### Conference
 
 * __Argument Generation with Retrieval, Planning, and Realization__ <br> *Xinyu Hua*, Zhe Hu, Lu Wang <br>
 Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019. (To Appear)
-<br> [[page][acl19_page]] [[pdf][acl19_pdf]] [[bibtex][acl19_bib]]
+<br> [[page][acl19_page]] [[pdf][acl19_pdf]] [[arxiv][acl19_arxiv]] [[bibtex][acl19_bib]]
 
 * __Argument Mining for Understanding Peer Reviews__ <br> *Xinyu Hua*, Mitko Nikolov, Nikhil Badugu, Lu Wang <br>
 Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019), short paper (To Appear)
@@ -37,6 +37,7 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [lu_hp]: http://www.ccs.neu.edu/home/luwang/
 [adapt_hp]: http://adapt.seiee.sjtu.edu.cn/
 [sjtu_hp]: http://www.sjtu.edu.cn/
+[avi_hp]: https://researcher.watson.ibm.com/researcher/view.php?person=us-avi
 
 [acl17_pdf]: {{ site.resourceurl }}/acl2017/acl2017.pdf
 [acl17_arxiv]: https://arxiv.org/abs/1705.00045
@@ -71,4 +72,4 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [acl19_page]: /Resources/acl19/
 [acl19_pdf]: {{site.resourceurl}}/acl2019/acl2019.pdf
 [acl19_bib]: {{site.resourceurl}}/bibtex/acl2019.bib
-
+[acl19_arxiv]: https://arxiv.org/abs/1906.03717
