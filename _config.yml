@@ -1,26 +1,19 @@
-# Dependencies
-#markdown:         redcarpet
-highlighter:        pygments 
+title: Xinyu Hua
+description: Ph.D. student at Northeastern University
+google_analytics: UA-143075473-1
+theme: jekyll-theme-leap-day
+gems:
+  - jekyll-font-awesome-sass
 
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Xinyu Hua
-tagline:          'Research Homepage'
-description:      'This website is built on <a href="http://lanyon.getpoole.com" target="_blank">Lanyon</a> theme in <a href="http://jekyllrb.com" target="_blank">Jekyll</a>'
-url:              http://xinyuhua.github.io/
-baseurl:          
-resourceurl:      '/resources'
+url: http://xinyuhua.github.io/
+resourceurl: '/resources'
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+    name: "Xinyu Hua"
+    location: "Boston, MA"
 
-paginate:         5
+collections:
+    posts: 
+        title: Blog posts
+        description: "opinions are my own."
 
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/lanyon

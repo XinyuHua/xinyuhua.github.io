@@ -1,6 +1,9 @@
 ---
-layout: post
+layout: paper
 title: A Study On The Diversity Of Supporting Arguments in Online Debate
+excerpt:  This is the work we submitted to ACL 2017. We study the way human debaters pick and combine different kinds of information from online documents to form a persuasive and coherent argument.
+categories: 
+- Argument mining
 ---
 
 _“He disliked contradiction, and still more, arguments that were continually skipping from one thing to another, introducing new and disconnected points, so that there was no knowing to which to reply.”_

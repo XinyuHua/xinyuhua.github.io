@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+
+    <link rel="stylesheet" href="/assets/css/all.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <style>
+    @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+.dropbtn {
+  background-color: #deeaee;
+  color: black;
+  padding: 5px;
+  width: 560px;
+  font-size: 16px;
+  border-color: white;
+  box-shadow: 0 0 3px gray;
+  cursor: pointer;
+  font: 20px/25px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-left: 80px;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #b1cbbb;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 20px;
+
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 560px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {background-color: #e3eaa7;}
+
+.show {display: block;}
+
+.output-box{
+  border-color: grey;
+  border-radius: 15;
+  box-shadow: 0 0 3px gray;
+  padding: 2px;
+  margin-top: 5px;
+  min-width: 560px;
+  min-height: 300px;
+  font:18px/25px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+</style>
+
+  </head>
+
+    <body>
+      <header>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <ul>
+            <li><a href="{{ site.url }}" class="softbutton">Home</a></li>
+            <li><a href="{{ site.url }}/Resources" class="softbutton">Resources</a></li>
+            <li><a href="{{ site.url }}/Posts" class="softbutton">Blogs</a></li>
+        </ul>
+      </header>
+
+    <div class="wrapper">
+      <wider-section>
+        {{ content }}
+        <div class="dropdown">
+          <button onclick="myFunction()" class="dropbtn">Click to choose a sample topic</button>
+          <div id="myDropdown" class="dropdown-content">
+            <a onclick="showCounterArg(0)">All drugs should be decriminalized.</a>
+            <a onclick="showCounterArg(1)">The wage gap isn’t about gender.</a>
+            <a onclick="showCounterArg(2)">Congressional Staffers Should Receive Significant Pay Bumps To Limit The Influence Of Lobbyists And Corporate Money</a>
+            <a onclick="showCounterArg(3)">Any sentencing above 45 years in prison is pointless</a>
+            <a onclick="showCounterArg(4)">Legislative bodies should be required to explain, in formal writing, why they voted a certain way when it comes to legislation</a>
+            <a onclick="showCounterArg(5)">It wouldn't be unconstitutional for a state to enslave people</a>
+            <a onclick="showCounterArg(6)">Israel is held to an Impossibly High Standard</a>
+            <a onclick="showCounterArg(7)"><The IMF enables fiscal irresponsibility/a>
+          </div>
+        <div class="output-box" id="output_box">
+        </div>
+      </div>
+      </wider-section>
+
+    </div>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+   <script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+function showCounterArg(key) {
+  switch(key) {
+  case 0:
+    document.getElementById("output_box").innerHTML = " there is a lot of research that suggests that there is a substantial amount of drugs that can be used to cause harm to others . however , there is a significant amount of research that can lead to a lot of drug addiction in the us . there are a lot of things that can be attributed to drug use , drug use , substance abuse , etc . i do n’t think it ’s fair to say that drug use should be illegal , but i think it ’s important to note that it ’s not a gateway drug . it ’s just a symptom of the root cause of the drug addiction problem . it ’s not just about the";
+    break;
+  case 1:
+    document.getElementById("output_box").innerHTML = "the problem with this argument is that the wage gap does not have to do with the gender pay gap . it is a fact that women are more likely to be able to take care of their children than their male counterparts . this is not to say that it is unfair to assume that women are being paid less than men , but that does not mean that it is not the case that women are discriminated against . it is not a matter of the wage gap , it is a matter of opinion . it is the job of the employer to make sure that the job is not the same as the other";
+    break;
+  case 2:
+    document.getElementById("output_box").innerHTML = "the only way to do this would be to require a staff member to vote for their constituents . this would be a huge waste of taxpayer money , and it would be much easier to get rid of it . it would have to be much more difficult to get elected officials to do if they wanted to do something about it . i think it would be more effective to have a politician who is more likely to have a job than a politician in a position of power . i do n't think it 's fair to say that politicians should be able to change their policy , but i think it 's important to note that";
+    break;
+  case 3:
+    document.getElementById("output_box").innerHTML = "i do n't think it 's fair to focus on rehabilitation , but i think it 's important to note that there are a lot of things that can be used to reduce crime . for example , for example , if you have a hard time dealing with crime , you 're not going to be able to commit a crime . if you do n't want to commit crimes , you 're going to have to make a lot of effort to do so . if you want to make sure that your life is in danger , then you have to have a good life . if you 're a murderer , you 're still going to";
+    break;
+  case 4:
+    document.getElementById("output_box").innerHTML = ""the problem is that there are a lot of ways to do things that make it easier for people to be able to vote . it 's hard to argue that a lot of people do n't agree with the law , but it 's not a good idea to change the law . a lot of the time , it 's just not possible to change the minds of the people . it does n't make sense to vote for someone who does n't want to change their mind . it 's not like they 're going to change their minds because they do n't want to vote , they just do n't care enough about it . they" ;
+    break;
+  case 5:
+    document.getElementById("output_box").innerHTML = "the purpose of the second amendment is to protect the rights of the state , and to protect the people from the state . this is why the state should not be allowed to enforce the laws of the united states . if the state does not allow the state to enforce its laws , it is illegal to force them to do so . in the case of the civil war , the federal government does not have the authority to enforce the law itself . it is not the state 's job to protect its citizens ; it is to protect citizens from the federal government . it is the state 's responsibility to protect the citizens of";
+    break;
+  case 6:
+    document.getElementById("output_box").innerHTML = "it 's important to note that there is a significant difference between the international community and the level of global peace in the world . it 's hard to argue that it 's not a matter of opinion , it 's a matter of time and time again , whether or not it 's true or not . it 's not about whether or not you agree with the nature of terrorism , it 's about whether or whether or not they agree with it or not . i 'm not going to try to change your view , but i do n't think it 's fair to say that it 's a " right " to say that the";
+    break;
+  case 7:
+    document.getElementById("output_box").innerHTML = "the problem with this is that the imf is not responsible for the debt crisis . in fact , the imf does not need to deal with the debt crisis in the first place . the problem is that in the us , there is no monetary incentive to deal with a debt crisis . it is not the fault of the imf , it is the responsibility of the government to make sure that the debt is owed to the lender . it is a matter of interest , and it is not a matter of monetary policy . it is an issue of monetary policy , not monetary policy . in the case of greece , the imf";
+    break;
+
+  default:
+    console.log("blank");
+}
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+
+    
+
+  </body>
+</html>

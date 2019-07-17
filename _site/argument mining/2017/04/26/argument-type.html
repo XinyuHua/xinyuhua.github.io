@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en-US">
+
+  <head>
+
+    <link rel="stylesheet" href="/assets/css/all.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>A Study On The Diversity Of Supporting Arguments in Online Debate | Xinyu Hua</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="A Study On The Diversity Of Supporting Arguments in Online Debate" />
+<meta name="author" content="Xinyu Hua" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This is the work we submitted to ACL 2017. We study the way human debaters pick and combine different kinds of information from online documents to form a persuasive and coherent argument." />
+<meta property="og:description" content="This is the work we submitted to ACL 2017. We study the way human debaters pick and combine different kinds of information from online documents to form a persuasive and coherent argument." />
+<link rel="canonical" href="http://localhost:4000/argument%20mining/2017/04/26/argument-type.html" />
+<meta property="og:url" content="http://localhost:4000/argument%20mining/2017/04/26/argument-type.html" />
+<meta property="og:site_name" content="Xinyu Hua" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-04-26T00:00:00-04:00" />
+<script type="application/ld+json">
+{"description":"This is the work we submitted to ACL 2017. We study the way human debaters pick and combine different kinds of information from online documents to form a persuasive and coherent argument.","author":{"@type":"Person","name":"Xinyu Hua"},"@type":"BlogPosting","url":"http://localhost:4000/argument%20mining/2017/04/26/argument-type.html","headline":"A Study On The Diversity Of Supporting Arguments in Online Debate","dateModified":"2017-04-26T00:00:00-04:00","datePublished":"2017-04-26T00:00:00-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/argument%20mining/2017/04/26/argument-type.html"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=f1430670d27b93b1daa39af53310a7737c7855bb">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="/assets/js/main.js"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+
+    <body>
+      <header>
+        <h1>Xinyu Hua</h1>
+
+        <ul>
+            <li><a href="http://localhost:4000" class="softbutton">Home</a></li>
+            <li><a href="http://localhost:4000/Resources" class="softbutton">Resources</a></li>
+            <li><a href="http://localhost:4000/Posts" class="softbutton">Blogs</a></li>
+        </ul>
+      </header>
+    
+    <div class="wrapper">
+        
+
+        
+
+
+      <section>
+        <div class="paper">
+  <h1 class="page-title">A Study On The Diversity Of Supporting Arguments in Online Debate</h1>
+  <p><em>“He disliked contradiction, and still more, arguments that were continually skipping from one thing to another, introducing new and disconnected points, so that there was no knowing to which to reply.”</em></p>
+
+<p><em>– Leo Tolstoy, Anna Karenina</em></p>
+
+<p>This is the work we submitted to ACL 2017. We study the way human debaters pick and combine different kinds of information from online documents to form a persuasive and coherent argument.</p>
+
+<p>Usually gathering relevant documents and potential references is not hard, given the power of the Internet and search engine. 
+But choosing the most related argument sentences and synthesizing them together can be very challenging.</p>
+
+<p><img src="/resources/photos/video-game.jpg" style="width:720px;height:350px;" />
+For example, suppose we want to construct some arguments for how video game can lead to youth violence. What people usually do is to find some facts, evidence, or quotes to support this claim. We aim to automate this process by searching through documents and ranking sentences according to how likely they will be chosen by human editors.</p>
+
+<p>Specifically, we first characterize the type of arguments as <em>Study, Factual, Opinion,</em> and <em>Reasoning</em>.
+Like many other texts in natural language, it is almost impossible to fully classify all types of arguments by merely four types. We think these four types are the most fundamental and independent ones (even though we still found some arguments lie in the boundary of two or more types).</p>
+
+<ul>
+  <li><strong>Study</strong> A 2015 peer-reviewed study found “compelling evidence that the use of realistic controllers can have a significant effect on the level of cognitive aggression.”</li>
+  <li><strong>Factual</strong> The 18-year old gunman who killed 9 people in Munich Germany, on Friday was a fan of first-person shooter video games.</li>
+  <li><strong>Opinion</strong> As a parent and grandparent, I think it is important people know everything they can about the extremely violent nature of some of these games.</li>
+  <li><strong>Reasoning</strong> Violent video games require active participation and identification with violent characters, which reinforces violent behavior.</li>
+</ul>
+
+<p>So why would we need this type information? We conjecture that for different debate topics and claims, humans have tendencies to use different types of arguments. Knowing the type of a candidate argument can help us to decide if it might be a proper argument for the given claim. For example, if the claim is very general, like <em>Video games are bad for young people</em>, there are wider selection of arguments than a claim like <em>Video games lead to cognitive aggression</em>. Also for such specific claim, results from research studies are preferred than incidental events or logical reasoning.</p>
+
+<p>To include the type information for relevant argument detection, we design a special feature set which we called <em>Composite Features</em> in our paper. The idea is simple, for each single feature we create four feature functions, each corresponding to one type. And after applying our type prediction model, we only set one of those four feature values to the actual feature values, and let all others to be zero. Experimental results proved the effectiveness of using such feature sets, which also suggests the type information helps.</p>
+
+<p>For details of this work please refer to <a href="/Resources">our paper</a>.</p>
+
+
+</div>
+
+      </section>
+      <footer>
+          <ul>
+              <li><a href="https://github.com/XinyuHua/"><i class="fa fa-github fa-2x" style=" vertical-align: middle;"></i></a></li>
+              <li><a href="https://twitter.com/xinyu_hua_neu"><i class="fa fa-twitter fa-2x" style=" vertical-align: middle;"></i></a></li>
+              <li><a href="mailto:hua.x@husky.neu.edu"><i class="fa fa-envelope fa-2x" style=" vertical-align: middle;"></i></a></li>
+         </ul>
+      </footer>
+
+    </div>
+
+    
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-143075473-1', 'auto');
+        ga('send', 'pageview');
+      </script>
+    
+  </body>
+</html>
