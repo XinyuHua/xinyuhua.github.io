@@ -14,7 +14,7 @@ Automatic evaluation on a large-scale dataset collected from Reddit shows that o
 [[pdf][acl19_pdf]] [[demo][demo_link]] [[code][code_link]] [[bibtex][acl19_bib]] 
 
 
-[acl19_pdf]: {{ site.resourceurl }}/acl2019/acl19_paper.pdf
+[acl19_pdf]: {{ site.resourceurl }}/acl2019/acl2019.pdf
 [demo_link]: https://xinyuhua.github.io/candela
 [code_link]: https://xinyuhua.github.io/candela
 [acl19_bib]: {{ site.resourceurl }}/bibtex/acl2019.bib
