@@ -12,16 +12,18 @@ sidebar: true
 
 # Demo
 
-- **ACL2019**: Candela - an argument generation framework [[link][acl19_demo]]
+- **ACL2019**: CANDELA - an argument generation framework [[link][acl19_demo]]
 
 # Code
 
-- **ACL2019**: Candela (PyTorch) [[github][acl19_git]]
+- **ACL2019**: CANDELA (PyTorch) [[github][acl19_git]]
 - **ACL2018**: Neural ArgGen (tensorflow) [[github][acl18_git]]
 
 
 
 [acl19_pdf]: {{site.resourceurl}}/acl2019/acl2019.pdf
+[acl19_data]: {{site.resourceurl}}/acl2019/acl2019.pdf
+[acl19_demo]: {{site.url}}candela
 [acl19_bib]: {{site.resourceurl}}/bibtex/acl2019.bib
 [acl19_readme]: {{site.resourceurl}}/acl2019/README.txt
 [acl19_git]:https://xinyuhua.github.io/candela/
