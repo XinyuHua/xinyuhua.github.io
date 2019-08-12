@@ -6,7 +6,7 @@ permalink: /Resources/acl19/
 
 #### _Xinyu Hua_, Zhe Hu, and Lu Wang (ACL 2019)
 
-![System architecture]({{ site.resourceurl }}/acl2019/acl2019_system.PNG)
+<img src="{{site.resourceurl}}/acl2019/acl2019_system.png" style="width:720px;" >
 
 **Abstract**: Automatic argument generation is an appealing but challenging task.
 In this paper, we study the specific problem of counter-argument generation, and present a novel framework, CANDELA. It consists of a powerful retrieval system and a novel two-step generation model, where a text planning decoder first decides on the main talking points and a proper language style for each sentence, then a content realization decoder reflects the decisions and constructs an informative paragraph-level argument.
