@@ -13,11 +13,9 @@ Currently I'm a summer research intern at IBM Research AI, working with [Avi Sil
 
 # News
 
-#### Upcoming 
-- **2019-07-28**: traveling to Florence, Italy to attend ACL 2019
-
 #### Past
 
+- **2019-07-28**: traveled to Florence, Italy to attend ACL 2019
 - **2019-06-01**: traveled to Minneapolis to attend NAACL 2019
 - **2019-05-29**: started my summer research intern at IBM Research AI, Yorktown Heights
 
@@ -25,7 +23,7 @@ Currently I'm a summer research intern at IBM Research AI, working with [Avi Sil
 # Publication
 
 * __Argument Generation with Retrieval, Planning, and Realization__ <br> *Xinyu Hua*, Zhe Hu, Lu Wang <br>
-Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019. (To appear)
+Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
 <br> [[page][acl19_page]] [[pdf][acl19_pdf]] [[arxiv][acl19_arxiv]] [[bibtex][acl19_bib]]
 
 * __Argument Mining for Understanding Peer Reviews__ <br> *Xinyu Hua*, Mitko Nikolov, Nikhil Badugu, Lu Wang <br>
