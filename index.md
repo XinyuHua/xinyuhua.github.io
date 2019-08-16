@@ -13,6 +13,8 @@ Currently I'm a summer research intern at IBM Research AI, working with [Avi Sil
 
 # News
 
+- **2019-08-12**: a long paper accepted to EMNLP 2019 on text generation
+
 #### Past
 
 - **2019-07-28**: traveled to Florence, Italy to attend ACL 2019
@@ -21,6 +23,9 @@ Currently I'm a summer research intern at IBM Research AI, working with [Avi Sil
 
 
 # Publication
+
+* __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua*, Lu Wang <br>
+Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019) (To appear).
 
 * __Argument Generation with Retrieval, Planning, and Realization__ <br> *Xinyu Hua*, Zhe Hu, Lu Wang <br>
 Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
