@@ -26,6 +26,7 @@ Currently I'm a summer research intern at IBM Research AI, working with [Avi Sil
 
 * __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua*, Lu Wang <br>
 Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019) (To appear).
+<br> [[page][emnlp19_page]]
 
 * __Argument Generation with Retrieval, Planning, and Realization__ <br> *Xinyu Hua*, Zhe Hu, Lu Wang <br>
 Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
@@ -97,3 +98,5 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [acl19_pdf]: {{site.resourceurl}}/acl2019/acl2019.pdf
 [acl19_bib]: {{site.resourceurl}}/bibtex/acl2019.bib
 [acl19_arxiv]: https://arxiv.org/abs/1906.03717
+
+[emnlp19_page]: /Resources/emnlp19/
