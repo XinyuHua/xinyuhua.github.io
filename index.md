@@ -5,18 +5,16 @@ sidebar: true
 
 # About
 
-I am a third year Ph.D. student at Northeastern University working with [Lu Wang][lu_hp]. My research focuses are natural language inference, argumentative text understanding and generation. My CV can be downloaded [here][cv].
+I am a fourth year Ph.D. student at Northeastern University working with [Lu Wang][lu_hp]. My research focuses are natural language inference, argumentative text understanding and generation. My CV can be downloaded [here][cv].
 
-I received my B.Eng. in Computer Science from [Shanghai Jiao Tong University][sjtu_hp], where I was a member of [ADAPT][adapt_hp] lab directed by [Kenny Q. Zhu](http://www.cs.sjtu.edu.cn/~kzhu/). <br>
-
-Currently I'm a summer research intern at IBM Research AI, working with [Avi Sil][avi_hp] on question answering and language inference. 
+I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, where I was supervised by [Kenny Q. Zhu](http://www.cs.sjtu.edu.cn/~kzhu/). <br>
 
 # News
 
-- **2019-08-12**: a long paper accepted to EMNLP 2019 on text generation
 
 #### Past
 
+- **2019-08-12**: a long paper accepted to EMNLP 2019 on text generation
 - **2019-07-28**: traveled to Florence, Italy to attend ACL 2019
 - **2019-06-01**: traveled to Minneapolis to attend NAACL 2019
 - **2019-05-29**: started my summer research intern at IBM Research AI, Yorktown Heights
