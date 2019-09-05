@@ -24,7 +24,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 * __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua*, Lu Wang <br>
 Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019) (To appear).
-<br> [[page][emnlp19_page]]
+<br> [[page][emnlp19_page]] [[pdf][emnlp19_pdf]] [[arxiv][emnlp19_arxiv]]
 
 * __Argument Generation with Retrieval, Planning, and Realization__ <br> *Xinyu Hua*, Zhe Hu, Lu Wang <br>
 Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
@@ -98,3 +98,5 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [acl19_arxiv]: https://arxiv.org/abs/1906.03717
 
 [emnlp19_page]: /Resources/emnlp19/
+[emnlp19_pdf]: {{site.resourceurl}}/emnlp2019/emnlp2019.pdf
+[emnlp19_arxiv]: https://arxiv.org/abs/1909.00734
