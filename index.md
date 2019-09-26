@@ -14,6 +14,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 #### Past
 
+- **2019-09-20**: attended QASP workshop at MIT-IBM
 - **2019-08-12**: a long paper accepted to EMNLP 2019 on text generation
 - **2019-07-28**: traveled to Florence, Italy to attend ACL 2019
 - **2019-06-01**: traveled to Minneapolis to attend NAACL 2019
