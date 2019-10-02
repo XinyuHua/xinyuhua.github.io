@@ -19,7 +19,9 @@ sidebar: true
 - **ACL2019**: CANDELA (PyTorch) [[github][acl19_git]]
 - **ACL2018**: Neural ArgGen (tensorflow) [[github][acl18_git]]
 
+# Useful Links
 
+- [How to map Muhenkan to superkey on HHKB for linux](https://blog.treedown.net/entry/2019/02/22/010000)
 
 [acl19_pdf]: {{site.resourceurl}}/acl2019/acl2019.pdf
 [acl19_data]: {{site.resourceurl}}/acl2019/acl2019.pdf
