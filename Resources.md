@@ -1,6 +1,7 @@
 ---
 layout: default
 sidebar: true
+permlink: /Resources/
 ---
 
 # Dataset
