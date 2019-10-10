@@ -23,6 +23,7 @@ permlink: /Resources/
 # Useful Links
 
 - [How to map Muhenkan to superkey on HHKB for linux](https://blog.treedown.net/entry/2019/02/22/010000)
+- [Google fonts](https://fonts.google.com)
 
 [acl19_pdf]: {{site.resourceurl}}/acl2019/acl2019.pdf
 [acl19_data]: {{site.resourceurl}}/acl2019/acl2019.pdf
