@@ -11,6 +11,9 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 # News
 
+#### Upcoming
+
+- **2019-11-03**: traveling to HKSAR to attend EMNLP 2019
 
 #### Past
 
@@ -25,11 +28,11 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 * __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua*, Lu Wang <br>
 Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019) (To appear).
-<br> [[page][emnlp19_page]] [[pdf][emnlp19_pdf]] [[arxiv][emnlp19_arxiv]]
+<br> [[page][emnlp19_page]] [[pdf][emnlp19_pdf]] [[arxiv][emnlp19_arxiv]] [[data][emnlp19_data]] [[bibtex][emnlp19_bib]]
 
 * __Argument Generation with Retrieval, Planning, and Realization__ <br> *Xinyu Hua*, Zhe Hu, Lu Wang <br>
 Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
-<br> [[page][acl19_page]] [[pdf][acl19_pdf]] [[arxiv][acl19_arxiv]] [[bibtex][acl19_bib]] [[slides][acl19_slides]]
+<br> [[page][acl19_page]] [[pdf][acl19_pdf]] [[arxiv][acl19_arxiv]] [[data][acl19_data]] [[bibtex][acl19_bib]] [[slides][acl19_slides]]
 
 * __Argument Mining for Understanding Peer Reviews__ <br> *Xinyu Hua*, Mitko Nikolov, Nikhil Badugu, Lu Wang <br>
 Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019), short paper
@@ -98,7 +101,11 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [acl19_bib]: {{site.resourceurl}}/bibtex/acl2019.bib
 [acl19_arxiv]: https://arxiv.org/abs/1906.03717
 [acl19_slides]: {{site.resourceurl}}/acl2019/slides_final.pdf
+[acl19_data]: https://drive.google.com/drive/folders/1fl9uxfkplJtbEppx4XeJ77nI0Iov_ZYL?usp=sharing
+
 
 [emnlp19_page]: /Resources/emnlp19/
 [emnlp19_pdf]: {{site.resourceurl}}/emnlp2019/emnlp2019.pdf
 [emnlp19_arxiv]: https://arxiv.org/abs/1909.00734
+[emnlp19_data]: https://drive.google.com/open?id=1oR5JmlsTihG8t_0FjYTGGijSgGsB9Js_
+[emnlp19_bib]: {{site.resourceurl}}/emnlp2019/emnlp2019.bib

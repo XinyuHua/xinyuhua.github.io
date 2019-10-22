@@ -22,4 +22,4 @@ Human judges further rate our system generated text as more fluent and correct, 
 [paper_pdf]: {{site.resourceurl}}/emnlp2019/emnlp2019.pdf
 [code_link]: https://github.com/XinyuHua/arggen-emnlp19
 [bib_link]: {{ site.resourceurl }}/bibtex/emnlp2019.bib
-[data_link]: https://xinyuhua.github.io/Resources/emnlp19/
+[data_link]: https://drive.google.com/open?id=1oR5JmlsTihG8t_0FjYTGGijSgGsB9Js_
