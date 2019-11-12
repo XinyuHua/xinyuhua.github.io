@@ -11,12 +11,9 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 # News
 
-#### Upcoming
-
-- **2019-11-03**: traveling to HKSAR to attend EMNLP 2019
-
 #### Past
 
+- **2019-11-03**: attended EMNLP 2019 at HKSAR
 - **2019-09-20**: attended QASP workshop at MIT-IBM
 - **2019-08-12**: a long paper accepted to EMNLP 2019 on text generation
 - **2019-07-28**: traveled to Florence, Italy to attend ACL 2019
@@ -27,7 +24,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 # Publication
 
 * __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua*, Lu Wang <br>
-Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019) (To appear).
+Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019).
 <br> [[page][emnlp19_page]] [[pdf][emnlp19_pdf]] [[arxiv][emnlp19_arxiv]] [[data][emnlp19_data]] [[bibtex][emnlp19_bib]]
 
 * __Argument Generation with Retrieval, Planning, and Realization__ <br> *Xinyu Hua*, Zhe Hu, Lu Wang <br>
