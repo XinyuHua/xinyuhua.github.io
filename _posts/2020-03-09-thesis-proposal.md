@@ -13,7 +13,7 @@ excerpt: Information about my thesis committee and proposal.
 
 ### Proposal document
 
-[link](/Resources/phd_thesis_proposal_xinyu.pdf)
+[link](/resources/phd_thesis_proposal_xinyu.pdf)
 
 
 ### Justification for Choice of Committee
