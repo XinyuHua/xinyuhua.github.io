@@ -5,7 +5,7 @@ sidebar: true
 
 # About
 
-I am a fourth year Ph.D. student at Northeastern University working with [Lu Wang][lu_hp]. My research focuses are natural language inference, argumentative text understanding and generation. My CV can be downloaded [here][cv].
+I am a fourth year Ph.D. candidate at Northeastern University working with [Lu Wang][lu_hp]. My research focuses are natural language inference, argumentative text understanding and generation. My CV can be downloaded [here][cv].
 
 I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, where I was supervised by [Kenny Q. Zhu](http://www.cs.sjtu.edu.cn/~kzhu/). <br>
 
@@ -22,6 +22,9 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 
 # Publication
+
+* __XREF: Entity Linking for Chinese News Comments with Supplementary Article Reference__ <br> *Xinyu Hua*, Lei Li, Lifeng Hua, Lu Wang <br>
+To appear at Automated Knowledge Base Construction (AKBC) 2020. 
 
 * __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua*, Lu Wang <br>
 Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019).
