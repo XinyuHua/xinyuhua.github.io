@@ -25,6 +25,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 * __XREF: Entity Linking for Chinese News Comments with Supplementary Article Reference__ <br> *Xinyu Hua*, Lei Li, Lifeng Hua, Lu Wang <br>
 To appear at Automated Knowledge Base Construction (AKBC) 2020. 
+<br> [[page][akbc20_page]] [[pdf][akbc20_pdf]]
 
 * __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua*, Lu Wang <br>
 Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019).
@@ -114,3 +115,6 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [emnlp19_data]: https://drive.google.com/open?id=1oR5JmlsTihG8t_0FjYTGGijSgGsB9Js_
 [emnlp19_bib]: {{site.resourceurl}}/emnlp2019/emnlp2019.bib
 [emnlp19_slides]: {{site.resourceurl}}/emnlp2019/slides_final.pdf
+
+[akbc20_page]: /Resources/akbc20/
+[akbc20_pdf]: {{site.resourceurl}}/akbc2020/akbc2020.pdf
