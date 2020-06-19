@@ -19,9 +19,10 @@ Two new datasets in entertainment and product domains are collected and annotate
 
 
 
-[[pdf][paper_pdf]] [[code][code_link]] [[bibtex][bib_link]]
+[[pdf][paper_pdf]] [[code][code_link]] [[bibtex][bib_link]] [[video][video_link]]
 
 [paper_pdf]: {{site.resourceurl}}/akbc2020/akbc2020.pdf
 [code_link]: https://github.com/XinyuHua/xref-chinese-el
 [bib_link]: {{ site.resourceurl }}/bibtex/akbc20.bib
 [data_link]: https://drive.google.com/open?id=1oR5JmlsTihG8t_0FjYTGGijSgGsB9Js_
+[video_link]: https://www.youtube.com/watch?time_continue=33&v=XJCLlr3rdT0&feature=emb_logo
