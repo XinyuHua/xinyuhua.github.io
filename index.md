@@ -13,6 +13,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 #### Past
 
+- **2020-06-25**: attended AKBC 2020 (virtual)
 - **2019-11-03**: attended EMNLP 2019 at HKSAR
 - **2019-09-20**: attended QASP workshop at MIT-IBM
 - **2019-08-12**: a long paper accepted to EMNLP 2019 on text generation
@@ -25,7 +26,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 * __XREF: Entity Linking for Chinese News Comments with Supplementary Article Reference__ <br> *Xinyu Hua*, Lei Li, Lifeng Hua, Lu Wang <br>
 To appear at Automated Knowledge Base Construction (AKBC) 2020. 
-<br> [[page][akbc20_page]] [[pdf][akbc20_pdf]] [[openreview][akbc20_or]]
+<br> [[page][akbc20_page]] [[pdf][akbc20_pdf]] [[openreview][akbc20_or]] [[arxiv][akbc20_arxiv]] [[video][akbc20_video]] [[slides][akbc20_slides]]
 
 * __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua*, Lu Wang <br>
 Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019).
@@ -119,3 +120,6 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [akbc20_page]: /Resources/akbc20/
 [akbc20_pdf]: {{site.resourceurl}}/akbc2020/akbc2020.pdf
 [akbc20_or]: https://openreview.net/forum?id=1hLH6CKIjN
+[akbc20_video]: https://www.youtube.com/watch?v=XJCLlr3rdT0&feature=emb_logo
+[akbc20_slides]: {{site.resourceurl}}/akbc2020/akbc_slides.pdf
+[akbc20_arxiv]: https://arxiv.org/abs/2006.14017
