@@ -11,24 +11,25 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 # News
 
+- **2020-09-15**: one paper accepted at EMNLP 2020
+
 #### Past
 
 - **2020-06-25**: attended AKBC 2020 (virtual)
 - **2019-11-03**: attended EMNLP 2019 at HKSAR
 - **2019-09-20**: attended QASP workshop at MIT-IBM
-- **2019-08-12**: a long paper accepted to EMNLP 2019 on text generation
-- **2019-07-28**: traveled to Florence, Italy to attend ACL 2019
-- **2019-06-01**: traveled to Minneapolis to attend NAACL 2019
-- **2019-05-29**: started my summer research intern at IBM Research AI, Yorktown Heights
 
 
 # Publication
 
+* __PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation__ <br> *Xinyu Hua* and Lu Wang <br>
+To appear at EMNLP 2020.
+
 * __XREF: Entity Linking for Chinese News Comments with Supplementary Article Reference__ <br> *Xinyu Hua*, Lei Li, Lifeng Hua, Lu Wang <br>
-To appear at Automated Knowledge Base Construction (AKBC) 2020. 
+Proceedings of the Automated Knowledge Base Construction (AKBC) 2020. 
 <br> [[page][akbc20_page]] [[pdf][akbc20_pdf]] [[openreview][akbc20_or]] [[arxiv][akbc20_arxiv]] [[video][akbc20_video]] [[slides][akbc20_slides]]
 
-* __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua*, Lu Wang <br>
+* __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua* and Lu Wang <br>
 Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019).
 <br> [[page][emnlp19_page]] [[pdf][emnlp19_pdf]] [[arxiv][emnlp19_arxiv]] [[data][emnlp19_data]] [[bibtex][emnlp19_bib]] [[slides][emnlp19_slides]]
 
