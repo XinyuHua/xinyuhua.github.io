@@ -1,6 +1,6 @@
 ---
-layout: paper 
-title: PAIR: Planning and Iterative Refinement in Pre-trained Transformersfor Long Text Generation
+layout: paper
+title: "PAIR : Planning and Iterative Refinement in Pre-trained Transformersfor Long Text Generation"
 permalink: /Resources/emnlp20/
 ---
 

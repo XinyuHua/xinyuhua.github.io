@@ -58,7 +58,7 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 
 # Miscellaneous
 
-- **Services:** NAACL 2019, CoNLL 2019, AAAI 2018, EMNLP 2017
+- **Services:** EMNLP 2020, AACL 2020, ACL 2020, AACL 2020, NAACL 2019, CoNLL 2019, AAAI 2018, EMNLP 2017
 - **Guest lecture:** CS 7180 Special Topics in AI: Deep Learning (2019), Northeastern University
 - **Invited presentation:** Amazon Research Day Boston, 2018
 - **(Human) languages:** Mandarin Chinese (native), English (proficient), Japanese (fluent)
