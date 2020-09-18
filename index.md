@@ -24,6 +24,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 * __PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation__ <br> *Xinyu Hua* and Lu Wang <br>
 To appear at EMNLP 2020.
+<br> [[page][emnlp20_page]] [[bibtex][emnlp20_bib]]
 
 * __XREF: Entity Linking for Chinese News Comments with Supplementary Article Reference__ <br> *Xinyu Hua*, Lei Li, Lifeng Hua, Lu Wang <br>
 Proceedings of the Automated Knowledge Base Construction (AKBC) 2020. 
@@ -115,7 +116,7 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [emnlp19_pdf]: {{site.resourceurl}}/emnlp2019/emnlp2019.pdf
 [emnlp19_arxiv]: https://arxiv.org/abs/1909.00734
 [emnlp19_data]: https://drive.google.com/open?id=1oR5JmlsTihG8t_0FjYTGGijSgGsB9Js_
-[emnlp19_bib]: {{site.resourceurl}}/emnlp2019/emnlp2019.bib
+[emnlp19_bib]: {{site.resourceurl}}/bibtex/emnlp2019.bib
 [emnlp19_slides]: {{site.resourceurl}}/emnlp2019/slides_final.pdf
 
 [akbc20_page]: /Resources/akbc20/
@@ -124,3 +125,6 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [akbc20_video]: https://www.youtube.com/watch?v=XJCLlr3rdT0&feature=emb_logo
 [akbc20_slides]: {{site.resourceurl}}/akbc2020/akbc_slides.pdf
 [akbc20_arxiv]: https://arxiv.org/abs/2006.14017
+
+[emnlp20_page]: /Resources/emnlp20/
+[emnlp20_bib]: {{site.resourceurl}}/bibtex/emnlp2020.bib
