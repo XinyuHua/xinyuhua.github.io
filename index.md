@@ -5,7 +5,7 @@ sidebar: true
 
 # About
 
-I am a fourth year Ph.D. candidate at Northeastern University working with [Lu Wang][lu_hp]. My research focuses are natural language inference, argumentative text understanding and generation. My CV can be downloaded [here][cv].
+I am a last year Ph.D. candidate at Northeastern University working with [Lu Wang][lu_hp]. My research focuses are natural language inference, argumentative text understanding and generation. My CV can be downloaded [here][cv].
 
 I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, where I was supervised by [Kenny Q. Zhu](http://www.cs.sjtu.edu.cn/~kzhu/). <br>
 
@@ -27,7 +27,7 @@ To appear at EMNLP 2020.
 <br> [[page][emnlp20_page]] [[bibtex][emnlp20_bib]]
 
 * __XREF: Entity Linking for Chinese News Comments with Supplementary Article Reference__ <br> *Xinyu Hua*, Lei Li, Lifeng Hua, Lu Wang <br>
-Proceedings of the Automated Knowledge Base Construction (AKBC) 2020. 
+Proceedings of the Automated Knowledge Base Construction (AKBC 2020). 
 <br> [[page][akbc20_page]] [[pdf][akbc20_pdf]] [[openreview][akbc20_or]] [[arxiv][akbc20_arxiv]] [[video][akbc20_video]] [[slides][akbc20_slides]]
 
 * __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua* and Lu Wang <br>
@@ -35,7 +35,7 @@ Proceedings of the 2019 Conference on Empirical Methods in Natural Language Proc
 <br> [[page][emnlp19_page]] [[pdf][emnlp19_pdf]] [[arxiv][emnlp19_arxiv]] [[data][emnlp19_data]] [[bibtex][emnlp19_bib]] [[slides][emnlp19_slides]]
 
 * __Argument Generation with Retrieval, Planning, and Realization__ <br> *Xinyu Hua*, Zhe Hu, Lu Wang <br>
-Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
+Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019).
 <br> [[page][acl19_page]] [[pdf][acl19_pdf]] [[arxiv][acl19_arxiv]] [[data][acl19_data]] [[bibtex][acl19_bib]] [[slides][acl19_slides]] [[video][acl19_video]]
 
 * __Argument Mining for Understanding Peer Reviews__ <br> *Xinyu Hua*, Mitko Nikolov, Nikhil Badugu, Lu Wang <br>
@@ -43,11 +43,11 @@ Proceedings of the 2019 Conference of the North American Chapter of the Associat
 <br> [[page][naacl19_page]] [[pdf][naacl19_pdf]] [[arxiv][naacl19_arxiv]] [[data][naacl19_data]] [[bibtex][naacl19_bib]] [[slides][naacl19_slides]] [[video][naacl19_video]]
 
 * __Neural Argument Generation Augmented with Externally Retrieved Evidence__ <br> *Xinyu Hua* and Lu Wang. <br>
-Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL), 2018. 
+Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018). 
 <br>[[pdf][acl18_pdf]] [[arxiv][acl18_arxiv]] [[bibtex][acl18_bib]] [[resource][acl17_data]]  [[appendix][acl18_supp]] [[slides][acl18_slides]] [[poster][acl18_poster]] [[video][acl18_video]]
 
 * __Understanding and Detecting Supporting Arguments of Diverse Types__ <br> *Xinyu Hua* and Lu Wang.<br>
-Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL), short paper, 2017. *Outstanding paper*
+Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2017), short paper. *Outstanding paper*
 <br>[[pdf][acl17_pdf]] [[arxiv][acl17_arxiv]] [[bibtex][acl17_bib]] [[resource][acl17_data]][[post][acl17_post]][[errata][acl17_errata]] [[slides][acl17_slides]] [[video][acl17_video]]
 
 
