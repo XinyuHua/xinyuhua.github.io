@@ -15,9 +15,9 @@ In this work, we present a novel content-controlled text generation framework, P
 We then propose a refinement algorithm to gradually enhance generation quality within the sequence-to-sequence framework. Finally, we adapt BERT to automatically predict content plans.
 Evaluation with automatic metrics shows that adding planning consistently improves the generation quality on three distinct domains, with on average 20 BLEU points and 12 METEOR points improvements. In addition, human judges rate our system outputs to be more relevant and coherent than comparisons without planning.
 
-**Camera-ready coming soon!**
 
-[[code][code_link]] [[bibtex][bib_link]]
+[[pdf][pdf_link]] [[code][code_link]] [[bibtex][bib_link]]
 
 [code_link]: https://github.com/XinyuHua/pair-emnlp2020
 [bib_link]: {{ site.resourceurl }}/bibtex/emnlp2020.bib
+[pdf_link]: {{site.resourceurl}}/emnlp2020/EMNLP2020_xinyu_arxiv.pdf
