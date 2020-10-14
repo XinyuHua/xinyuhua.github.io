@@ -47,5 +47,5 @@ permlink: /Resources/
 [emnlp17_pdf]: {{ site.resourceurl }}/emnlp2017/emnlp2017_workshop.pdf
 [acl17_bib]: {{ site.resourceurl }}/bibtex/acl2017.bib
 [acl17_pdf]: {{ site.resourceurl }}/acl2017/acl2017.pdf
-[acl17_data]: {{ site.url }}/Resources/acl2017/annotation.json
+[acl17_data]: {{ site.resourceurl }}/acl2017/annotation.json
 [acl17_readme]:{{ site.resourceurl }}/acl2017/argument_README.txt
