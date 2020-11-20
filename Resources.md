@@ -6,10 +6,10 @@ permlink: /Resources/
 
 # Dataset
 
-- **ACL2019**: ChangeMyView counter-arguments enhanced with Wikipedia + news portals [[link][acl19_data], [readme][acl18_readme], [paper][acl19_pdf], [cite][acl19_bib]]
-- **NAACL2019**: ICLR2018 review dataset [[link][naacl19_data], [readme][naacl19_readme], [paper][naacl19_pdf], [cite][naacl19_bib]]
-- **ACL2018**: ChangeMyView counter-arguments enhanced with Wikipedia [[link][acl18_data], [readme][acl18_readme], [paper][acl18_pdf], [cite][acl18_bib]]
-- **ACL2017**: Supporting arguments for Idebate [[link][acl17_data], [readme][acl17_readme], [paper][acl17_pdf], [cite][acl17_bib]]
+- **ACL2019**: ChangeMyView counter-arguments enhanced with Wikipedia + news portals [[data][acl19_data], [readme][acl18_readme], [paper][acl19_pdf], [cite][acl19_bib]]
+- **NAACL2019**: ICLR2018 review dataset [[data][naacl19_data], [readme][naacl19_readme], [paper][naacl19_pdf], [cite][naacl19_bib]]
+- **ACL2018**: ChangeMyView counter-arguments enhanced with Wikipedia [[data][acl18_data], [readme][acl18_readme], [paper][acl18_pdf], [cite][acl18_bib]]
+- **ACL2017**: Supporting arguments for Idebate [[data][acl17_data], [readme][acl17_readme], [paper][acl17_pdf], [cite][acl17_bib]]
 
 # Demo
 
@@ -47,5 +47,5 @@ permlink: /Resources/
 [emnlp17_pdf]: {{ site.resourceurl }}/emnlp2017/emnlp2017_workshop.pdf
 [acl17_bib]: {{ site.resourceurl }}/bibtex/acl2017.bib
 [acl17_pdf]: {{ site.resourceurl }}/acl2017/acl2017.pdf
-[acl17_data]: {{ site.url }}/Resources
+[acl17_data]: {{ site.resourceurl }}/acl2017/annotation.json
 [acl17_readme]:{{ site.resourceurl }}/acl2017/argument_README.txt
