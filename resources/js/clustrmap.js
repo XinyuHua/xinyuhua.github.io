@@ -144,7 +144,7 @@ function main() {
         }
 
 
-        data['w'] = 0;
+        data['w'] = 1;
         data['cl'] = '0e1633';
         console.log(data);
 
