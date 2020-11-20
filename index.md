@@ -5,25 +5,21 @@ sidebar: true
 
 # About
 
-I am a fourth year Ph.D. candidate at Northeastern University working with [Lu Wang][lu_hp]. My research focuses are natural language inference, argumentative text understanding and generation. My CV can be downloaded [here][cv].
+I am a last year Ph.D. candidate at Northeastern University working with [Lu Wang][lu_hp]. My research focuses are natural language inference, argumentative text understanding and generation. My CV can be downloaded [here][cv].
 
 I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, where I was supervised by [Kenny Q. Zhu](http://www.cs.sjtu.edu.cn/~kzhu/). <br>
 
-# News
-
-- **2020-09-15**: one paper accepted at EMNLP 2020
-
 #### Past
 
+- **2020-11-20**: attended EMNLP 2020 (virtual)
 - **2020-06-25**: attended AKBC 2020 (virtual)
-- **2019-11-03**: attended EMNLP 2019 at HKSAR
-- **2019-09-20**: attended QASP workshop at MIT-IBM
 
 
 # Publication
 
 * __PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation__ <br> *Xinyu Hua* and Lu Wang <br>
-To appear at EMNLP 2020.
+Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
+<br> [[page][emnlp20_page]] [[pdf][emnlp20_pdf]] [[arxiv][emnlp20_arxiv]] [[bibtex][emnlp20_bib]] [[slides][emnlp20_slides]]
 
 * __XREF: Entity Linking for Chinese News Comments with Supplementary Article Reference__ <br> *Xinyu Hua*, Lei Li, Lifeng Hua, Lu Wang <br>
 Proceedings of the Automated Knowledge Base Construction (AKBC) 2020. 
@@ -124,3 +120,9 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [akbc20_video]: https://www.youtube.com/watch?v=XJCLlr3rdT0&feature=emb_logo
 [akbc20_slides]: {{site.resourceurl}}/akbc2020/akbc_slides.pdf
 [akbc20_arxiv]: https://arxiv.org/abs/2006.14017
+
+[emnlp20_page]: /Resources/emnlp20/
+[emnlp20_bib]: {{site.resourceurl}}/bibtex/emnlp2020.bib
+[emnlp20_pdf]: {{site.resourceurl}}/emnlp2020/emnlp2020_xinyu_arxiv.pdf
+[emnlp20_slides]: {{site.resourceurl}}/emnlp2020/emnlp2020_slides.pdf
+[emnlp20_arxiv]: https://arxiv.org/abs/2010.02301
