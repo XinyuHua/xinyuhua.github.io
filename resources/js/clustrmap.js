@@ -91,7 +91,8 @@ function main() {
         $('.clustrmaps-map').css ( 'height', h + 'px');
         $('.clustrmaps-map').css ('background-image', 'url("' + bgUrl(data) + '")');
 
-        var uF = 12, dF = 12, lH = 16;
+        // var uF = 12, dF = 12, lH = 16;
+        var uF = 1, dF = 1, lH = 1;
 
         if ( w >= 600 ) {
              uF = 14;
