@@ -1,6 +1,6 @@
 /* jshint browser: true */
 (function(window, document) {/* Wrap code in an IIFE */
-/* date last modified: 2020-07-24 10:42:29 */
+/* date last modified: 2020-08-07 11:07:24 */
 var jQuery, $; // Localize jQuery variables
 var waitForFinalEvent = (function() {
     var timers = {};
@@ -173,7 +173,7 @@ function main() {
             $("#clustrmaps-widget-v2").css('width', data['w'] + 'px' );
         }
 
-        //adjustElements(data);
+        adjustElements(data);
 
         if ( isH ) {
             data['hw'] = 1;
