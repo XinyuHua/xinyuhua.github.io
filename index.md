@@ -9,6 +9,11 @@ I am a last year Ph.D. candidate at Northeastern University working with [Lu Wan
 
 I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, where I was supervised by [Kenny Q. Zhu](http://www.cs.sjtu.edu.cn/~kzhu/). <br>
 
+# News
+
+- **2021-05-07**: one paper accepted at ACL 2021
+- **2021-03**: I will join Bloomberg AI in June 2021.
+
 #### Past
 
 - **2020-11-20**: attended EMNLP 2020 (virtual)
@@ -16,6 +21,8 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 
 # Publication
+
+* __DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Opinion Text Generation__ <br> *Xinyu Hua*, Ashwin Sreevatsa, and Lu Wang <br> Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021), To Appear.
 
 * __PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation__ <br> *Xinyu Hua* and Lu Wang <br>
 Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
