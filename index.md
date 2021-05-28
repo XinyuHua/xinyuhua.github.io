@@ -11,6 +11,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 # News
 
+- **2021-05-24**: I passed my dissertation defense!
 - **2021-05-07**: one paper accepted at ACL 2021
 - **2021-03**: I will join Bloomberg AI in June 2021.
 
@@ -23,6 +24,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 # Publication
 
 * __DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Opinion Text Generation__ <br> *Xinyu Hua*, Ashwin Sreevatsa, and Lu Wang <br> Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021), To Appear.
+<br> [[page][acl21_page]] [[bibtex][acl21_bib]]
 
 * __PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation__ <br> *Xinyu Hua* and Lu Wang <br>
 Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
@@ -133,3 +135,6 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [emnlp20_pdf]: {{site.resourceurl}}/emnlp2020/emnlp2020_xinyu_arxiv.pdf
 [emnlp20_slides]: {{site.resourceurl}}/emnlp2020/emnlp2020_slides.pdf
 [emnlp20_arxiv]: https://arxiv.org/abs/2010.02301
+
+[acl21_page]: /Resources/acl21/
+[acl21_bib]: {{site.resourceurl}}/bibtex/acl2021.bib
