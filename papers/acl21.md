@@ -6,7 +6,7 @@ permalink: /Resources/acl21/
 
 #### _Xinyu Hua_, Ashwin Sreevatsa, and Lu Wang (ACL 2021)
 
-<img src="{{site.resourceurl}}/acl2021/acl2021_thumbnail.png" style="width:720px;" >
+<img src="{{site.resourceurl}}/acl2021/acl21_thumbnail.png" style="width:720px;" >
 
 
 **Abstract**:
@@ -17,3 +17,9 @@ To enrich the generation with diverse content, we further propose to use large p
 We experiment with two challenging tasks on newly collected datasets: (1) argument generation with Reddit ChangeMyView, and (2) writing articles using New York Times' Opinion section. 
 Automatic evaluation shows that our model significantly outperforms competitive comparisons. 
 Human judges further confirm that our generations are more coherent with richer content.
+
+[[pdf][paper_pdf]] [[code][code_link]] [[bibtex][bib_link]]
+
+[paper_pdf]: {{ site.resourceurl }}/acl2021/acl2021_xinyu.pdf
+[code_link]: https://github.com/XinyuHua/dyploc-acl2021
+[bib_link]: {{ site.resourceurl }}/bibtex/acl2021.bib
