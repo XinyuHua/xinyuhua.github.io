@@ -5,15 +5,16 @@ sidebar: true
 
 # About
 
-I am a last year Ph.D. candidate at Northeastern University working with [Lu Wang][lu_hp]. My research focuses are natural language inference, argumentative text understanding and generation. My CV can be downloaded [here][cv].
+I am a research scientist at Bloomberg AI. Previously, I was a PhD student at Northeastern University working with [Lu Wang][lu_hp].
+During my PhD, my research focuses are text generation and argument mining. My CV can be downloaded [here][cv].
 
 I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, where I was supervised by [Kenny Q. Zhu](http://www.cs.sjtu.edu.cn/~kzhu/). <br>
 
 # News
 
-- **2021-05-24**: I passed my dissertation defense!
+- **2021-06-07**: I have started working at Bloomberg AI in New York.
+- **2021-05-24**: I passed my PhD dissertation defense!
 - **2021-05-07**: one paper accepted at ACL 2021
-- **2021-03**: I will join Bloomberg AI in June 2021.
 
 #### Past
 
@@ -24,7 +25,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 # Publication
 
 * __DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Opinion Text Generation__ <br> *Xinyu Hua*, Ashwin Sreevatsa, and Lu Wang <br> Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021), To Appear.
-<br> [[page][acl21_page]] [[bibtex][acl21_bib]]
+<br> [[page][acl21_page]] [[pdf][acl21_pdf]] [[bibtex][acl21_bib]]
 
 * __PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation__ <br> *Xinyu Hua* and Lu Wang <br>
 Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
@@ -138,3 +139,4 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 
 [acl21_page]: /Resources/acl21/
 [acl21_bib]: {{site.resourceurl}}/bibtex/acl2021.bib
+[acl21_pdf]: {{site.resourceurl}}/acl2021/acl2021_xinyu.pdf
