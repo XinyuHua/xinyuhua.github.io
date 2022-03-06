@@ -6,7 +6,7 @@ permalink: /Resources/acl22/
 
 #### _Xinyu Hua_ and Lu Wang (Findings of ACL 2022)
 
-<img src="{{site.resourceurl}}/acl22/acl2022_thumbnail.png" style="width:720px;" >
+<img src="{{site.resourceurl}}/acl2022/acl2022_thumbnail.png" style="width:720px;" >
 
 **Abstract**:
 
