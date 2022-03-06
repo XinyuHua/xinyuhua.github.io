@@ -1,5 +1,5 @@
 title: Xinyu Hua
-description: Ph.D. student at Northeastern University
+description: NLP Machine Learning Engineer
 google_analytics: UA-143075473-1
 theme: jekyll-theme-leap-day
 gems:
@@ -10,7 +10,7 @@ resourceurl: '/resources'
 
 author:
     name: "Xinyu Hua"
-    location: "Boston, MA"
+    location: "New York, NY"
 
 collections:
     posts: 

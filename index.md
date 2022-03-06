@@ -12,17 +12,21 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 # News
 
+- **2022-03-01**: One paper accepted at Findings of ACL 2022.
 - **2021-06-07**: I have started working at Bloomberg AI in New York.
 - **2021-05-24**: I passed my PhD dissertation defense!
-- **2021-05-07**: one paper accepted at ACL 2021
 
 #### Past
 
+- **2021-05-07**: one paper accepted at ACL 2021
 - **2020-11-20**: attended EMNLP 2020 (virtual)
-- **2020-06-25**: attended AKBC 2020 (virtual)
 
 
 # Publication
+
+* __Improving Argument Structure Extraction Efficacywith Transfer Learning and Active Learning__ <br> *Xinyu Hua* and Lu Wang <br> To appear at Findings of ACL 2022.
+<br> [[page][acl22_page]]
+
 
 * __DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Opinion Text Generation__ <br> *Xinyu Hua*, Ashwin Sreevatsa, and Lu Wang <br> Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021).
 <br> [[page][acl21_page]] [[pdf][acl21_pdf]] [[bibtex][acl21_bib]]
@@ -32,7 +36,7 @@ Proceedings of the 2020 Conference on Empirical Methods in Natural Language Proc
 <br> [[page][emnlp20_page]] [[pdf][emnlp20_pdf]] [[arxiv][emnlp20_arxiv]] [[bibtex][emnlp20_bib]] [[slides][emnlp20_slides]]
 
 * __XREF: Entity Linking for Chinese News Comments with Supplementary Article Reference__ <br> *Xinyu Hua*, Lei Li, Lifeng Hua, Lu Wang <br>
-Proceedings of the Automated Knowledge Base Construction (AKBC 2020). 
+Proceedings of the Automated Knowledge Base Construction (AKBC 2020).
 <br> [[page][akbc20_page]] [[pdf][akbc20_pdf]] [[openreview][akbc20_or]] [[arxiv][akbc20_arxiv]] [[video][akbc20_video]] [[slides][akbc20_slides]]
 
 * __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua* and Lu Wang <br>
@@ -48,7 +52,7 @@ Proceedings of the 2019 Conference of the North American Chapter of the Associat
 <br> [[page][naacl19_page]] [[pdf][naacl19_pdf]] [[arxiv][naacl19_arxiv]] [[data][naacl19_data]] [[bibtex][naacl19_bib]] [[slides][naacl19_slides]] [[video][naacl19_video]]
 
 * __Neural Argument Generation Augmented with Externally Retrieved Evidence__ <br> *Xinyu Hua* and Lu Wang. <br>
-Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018). 
+Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018).
 <br>[[pdf][acl18_pdf]] [[arxiv][acl18_arxiv]] [[bibtex][acl18_bib]] [[resource][acl17_data]]  [[appendix][acl18_supp]] [[slides][acl18_slides]] [[poster][acl18_poster]] [[video][acl18_video]]
 
 * __Understanding and Detecting Supporting Arguments of Diverse Types__ <br> *Xinyu Hua* and Lu Wang.<br>
@@ -57,7 +61,7 @@ Proceedings of the 55th Annual Meeting of the Association for Computational Ling
 
 
 * __A Pilot Study of Domain Adaptation Effect for Neural Abstractive Summarization__ <br> *Xinyu Hua* and Lu Wang.<br>
-Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short paper, 2017. 
+Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short paper, 2017.
 <br>[[pdf][emnlp17_pdf]][[arxiv][emnlp17_arxiv]][[bibtex][emnlp17_bib]][[poster][emnlp17_poster]][[data split][emnlp17_split]]
 
 
@@ -140,3 +144,7 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [acl21_page]: /Resources/acl21/
 [acl21_bib]: {{site.resourceurl}}/bibtex/acl2021.bib
 [acl21_pdf]: {{site.resourceurl}}/acl2021/acl2021_xinyu.pdf
+
+[acl22_page]: /Resources/acl22/
+[acl22_bib]: {{site.resourceurl}}/bibtex/acl2022.bib
+[acl22_pdf]: {{site.resourceurl}}/acl2022/acl2022_xinyu.pdf
