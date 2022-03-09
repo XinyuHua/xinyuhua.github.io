@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Improving Argument Structure Extraction Efficacy with Transfer Learning and Active Learning"
+title: "Efficient Argument Structure Extraction with Transfer Learning and Active Learning"
 permalink: /Resources/acl22/
 ---
 

@@ -12,7 +12,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 # News
 
-- **2022-03-01**: One paper accepted at Findings of ACL 2022.
+- **2022-03-01**: one paper accepted at Findings of ACL 2022
 - **2021-06-07**: I have started working at Bloomberg AI in New York.
 - **2021-05-24**: I passed my PhD dissertation defense!
 
@@ -24,7 +24,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 # Publication
 
-* __Improving Argument Structure Extraction Efficacywith Transfer Learning and Active Learning__ <br> *Xinyu Hua* and Lu Wang <br> To appear at Findings of ACL 2022.
+* __Efficient Argument Structure Extraction with Transfer Learning and Active Learning__ <br> *Xinyu Hua* and Lu Wang <br> To appear at Findings of ACL 2022.
 <br> [[page][acl22_page]]
 
 
