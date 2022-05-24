@@ -12,20 +12,16 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 # News
 
-- **2022-03-01**: one paper accepted at Findings of ACL 2022
+- **2022-05-24**: I am attending ACL 2022 (virtual).
+- **2022-03-01**: One paper accepted at Findings of ACL 2022.
 - **2021-06-07**: I have started working at Bloomberg AI in New York.
 - **2021-05-24**: I passed my PhD dissertation defense!
-
-#### Past
-
-- **2021-05-07**: one paper accepted at ACL 2021
-- **2020-11-20**: attended EMNLP 2020 (virtual)
 
 
 # Publication
 
 * __Efficient Argument Structure Extraction with Transfer Learning and Active Learning__ <br> *Xinyu Hua* and Lu Wang <br> To appear at Findings of ACL 2022.
-<br> [[page][acl22_page]] [[arxiv][acl22_arxiv]] [[data][acl22_data]] [[slides][acl22_slides]]
+<br> [[page][acl22_page]] [[pdf][acl22_pdf]] [[arxiv][acl22_arxiv]] [[data][acl22_data]] [[slides][acl22_slides]]
 
 
 * __DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Opinion Text Generation__ <br> *Xinyu Hua*, Ashwin Sreevatsa, and Lu Wang <br> Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021).
@@ -137,7 +133,7 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 
 [emnlp20_page]: /Resources/emnlp20/
 [emnlp20_bib]: {{site.resourceurl}}/bibtex/emnlp2020.bib
-[emnlp20_pdf]: {{site.resourceurl}}/emnlp2020/emnlp2020_xinyu_arxiv.pdf
+[emnlp20_pdf]: https://aclanthology.org/2020.emnlp-main.57.pdf
 [emnlp20_slides]: {{site.resourceurl}}/emnlp2020/emnlp2020_slides.pdf
 [emnlp20_arxiv]: https://arxiv.org/abs/2010.02301
 
@@ -147,7 +143,7 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 
 [acl22_page]: /Resources/acl22/
 [acl22_bib]: {{site.resourceurl}}/bibtex/acl2022.bib
-[acl22_pdf]: {{site.resourceurl}}/acl2022/acl2022_xinyu.pdf
+[acl22_pdf]: https://aclanthology.org/2022.findings-acl.36.pdf
 [acl22_data]: https://zenodo.org/record/6362430#.Yki2-hDML0p
 [acl22_arxiv]: https://arxiv.org/abs/2204.00707
 [acl22_slides]: {{site.resourceurl}}/acl2022/slides.pdf
