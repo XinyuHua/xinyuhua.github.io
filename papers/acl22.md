@@ -16,4 +16,4 @@ The automation of extracting argument structures faces a pair of challenges on (
 
 [data_link]: https://zenodo.org/record/6362430#.Yki2-hDML0p
 [paper_link]: https://aclanthology.org/2022.findings-acl.36.pdf
-[code link]: https://github.com/bloomberg/argument-relation-transformer-acl2022
+[code_link]: https://github.com/bloomberg/argument-relation-transformer-acl2022
