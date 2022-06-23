@@ -21,7 +21,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 # Publication
 
 * __Efficient Argument Structure Extraction with Transfer Learning and Active Learning__ <br> *Xinyu Hua* and Lu Wang <br> To appear at Findings of ACL 2022.
-<br> [[page][acl22_page]] [[pdf][acl22_pdf]] [[arxiv][acl22_arxiv]] [[data][acl22_data]] [[slides][acl22_slides]] [[poster][acl22_poster]]
+<br> [[page][acl22_page]] [[pdf][acl22_pdf]] [[arxiv][acl22_arxiv]] [[slides][acl22_slides]] [[poster][acl22_poster]] [[data][acl22_data]] [[code][acl22_code]]
 
 
 * __DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Opinion Text Generation__ <br> *Xinyu Hua*, Ashwin Sreevatsa, and Lu Wang <br> Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021).
@@ -148,3 +148,4 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [acl22_arxiv]: https://arxiv.org/abs/2204.00707
 [acl22_slides]: {{site.resourceurl}}/acl2022/slides.pdf
 [acl22_poster]: {{site.resourceurl}}/acl2022/acl2022_poster.pdf
+[acl22_code]: https://github.com/bloomberg/argument-relation-transformer-acl2022
