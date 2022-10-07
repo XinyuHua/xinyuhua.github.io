@@ -21,7 +21,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 # Publication
 
-* __Efficient Argument Structure Extraction with Transfer Learning and Active Learning__ <br> *Xinyu Hua* and Lu Wang <br> To appear at Findings of ACL 2022.
+* __Efficient Argument Structure Extraction with Transfer Learning and Active Learning__ <br> *Xinyu Hua* and Lu Wang <br> Findings of ACL 2022.
 <br> [[page][acl22_page]] [[pdf][acl22_pdf]] [[arxiv][acl22_arxiv]] [[slides][acl22_slides]] [[poster][acl22_poster]] [[data][acl22_data]] [[code][acl22_code]]
 
 
@@ -126,7 +126,7 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [emnlp19_slides]: {{site.resourceurl}}/emnlp2019/slides_final.pdf
 
 [akbc20_page]: /Resources/akbc20/
-[akbc20_pdf]: 
+[akbc20_pdf]: https://www.akbc.ws/2020/assets/pdfs/1hLH6CKIjN.pdf
 [akbc20_or]: https://openreview.net/forum?id=1hLH6CKIjN
 [akbc20_video]: https://www.youtube.com/watch?v=XJCLlr3rdT0&feature=emb_logo
 [akbc20_slides]: {{site.resourceurl}}/akbc2020/akbc_slides.pdf
