@@ -12,6 +12,7 @@ I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, whe
 
 # News
 
+- **2022-10-06**: One collaboration work accepted to Findings of EMNLP 2022.
 - **2022-05-24**: I am attending ACL 2022 (virtual).
 - **2022-03-01**: One paper accepted at Findings of ACL 2022.
 - **2021-06-07**: I have started working at Bloomberg AI in New York.
@@ -75,7 +76,7 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [avi_hp]: https://researcher.watson.ibm.com/researcher/view.php?person=us-avi
 [cv]: {{site.resourceurl}}/cv.pdf
 
-[acl17_pdf]: {{ site.resourceurl }}/acl2017/acl2017.pdf
+[acl17_pdf]: https://aclanthology.org/P17-2032.pdf
 [acl17_arxiv]: https://arxiv.org/abs/1705.00045
 [acl17_bib]: {{ site.resourceurl }}/bibtex/acl2017.bib
 [acl17_post]: {{ site.baseurl }}/2017/04/26/argument-type/
@@ -86,12 +87,12 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 
 
 [emnlp17_arxiv]: https://arxiv.org/abs/1707.07062
-[emnlp17_pdf]: {{ site.resourceurl }}/emnlp2017/emnlp2017_workshop.pdf
+[emnlp17_pdf]: https://aclanthology.org/W17-4513.pdf
 [emnlp17_poster]: {{ site.resourceurl }}/emnlp2017/emnlp2017_poster.pdf
 [emnlp17_bib]: {{ site.resourceurl }}/bibtex/emnlp2017.bib
 [emnlp17_split]: {{ site.resourceurl }}/emnlp2017/nyt_anno_guids.tar.gz
 
-[acl18_pdf]: {{ site.resourceurl }}/acl2018/acl2018.pdf
+[acl18_pdf]: https://aclanthology.org/P18-1021.pdf
 [acl18_bib]: {{ site.resourceurl }}/bibtex/acl2018.bib
 [acl18_supp]: {{ site.resourceurl }}/acl2018/acl2018_supp.pdf
 [acl18_arxiv]: https://arxiv.org/abs/1805.10254
@@ -101,7 +102,7 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [acl18_video]: https://vimeo.com/285800652
 
 [naacl19_page]: /Resources/naacl19/
-[naacl19_pdf]: {{site.resourceurl}}/naacl2019/naacl19_paper.pdf
+[naacl19_pdf]: https://aclanthology.org/N19-1219.pdf
 [naacl19_data]: {{site.resourceurl}}/naacl2019/naacl19_dataset.zip
 [naacl19_bib]:  {{site.resourceurl}}/bibtex/naacl2019.bib
 [naacl19_slides]: {{site.resourceurl}}/naacl2019/slides_final.pdf
@@ -109,7 +110,7 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [naacl19_video]: https://vimeo.com/355808962
 
 [acl19_page]: /Resources/acl19/
-[acl19_pdf]: {{site.resourceurl}}/acl2019/acl2019.pdf
+[acl19_pdf]: https://aclanthology.org/P19-1255.pdf
 [acl19_bib]: {{site.resourceurl}}/bibtex/acl2019.bib
 [acl19_arxiv]: https://arxiv.org/abs/1906.03717
 [acl19_slides]: {{site.resourceurl}}/acl2019/slides_final.pdf
@@ -118,14 +119,14 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 
 
 [emnlp19_page]: /Resources/emnlp19/
-[emnlp19_pdf]: {{site.resourceurl}}/emnlp2019/emnlp2019.pdf
+[emnlp19_pdf]: https://aclanthology.org/D19-1055.pdf
 [emnlp19_arxiv]: https://arxiv.org/abs/1909.00734
 [emnlp19_data]: https://drive.google.com/open?id=1oR5JmlsTihG8t_0FjYTGGijSgGsB9Js_
 [emnlp19_bib]: {{site.resourceurl}}/bibtex/emnlp2019.bib
 [emnlp19_slides]: {{site.resourceurl}}/emnlp2019/slides_final.pdf
 
 [akbc20_page]: /Resources/akbc20/
-[akbc20_pdf]: {{site.resourceurl}}/akbc2020/akbc2020.pdf
+[akbc20_pdf]: 
 [akbc20_or]: https://openreview.net/forum?id=1hLH6CKIjN
 [akbc20_video]: https://www.youtube.com/watch?v=XJCLlr3rdT0&feature=emb_logo
 [akbc20_slides]: {{site.resourceurl}}/akbc2020/akbc_slides.pdf
@@ -139,7 +140,7 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 
 [acl21_page]: /Resources/acl21/
 [acl21_bib]: {{site.resourceurl}}/bibtex/acl2021.bib
-[acl21_pdf]: {{site.resourceurl}}/acl2021/acl2021_xinyu.pdf
+[acl21_pdf]: https://aclanthology.org/2021.acl-long.501.pdf
 
 [acl22_page]: /Resources/acl22/
 [acl22_bib]: {{site.resourceurl}}/bibtex/acl2022.bib
