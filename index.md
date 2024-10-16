@@ -5,21 +5,25 @@ sidebar: true
 
 # About
 
-I am a research scientist at Bloomberg AI. Previously, I was a PhD student at Northeastern University working with [Lu Wang][lu_hp].
-During my PhD, my research focuses are text generation and argument mining. My CV can be downloaded [here][cv].
+I am a machine learning engineer at Bloomberg AI.
+I graduated from Northeastern University in 2021, under the supervision of [Lu Wang][lu_hp].
+During my PhD, my research focuses are text generation and argument mining.
+My CV can be downloaded [here][cv].
 
-I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, where I was supervised by [Kenny Q. Zhu](http://www.cs.sjtu.edu.cn/~kzhu/). <br>
+I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, where I was supervised by [Kenny Q. Zhu](https://kenzhu2000.github.io/). <br>
 
 # News
 
-- **2022-10-06**: One collaboration work accepted to Findings of EMNLP 2022.
-- **2022-05-24**: I am attending ACL 2022 (virtual).
-- **2022-03-01**: One paper accepted at Findings of ACL 2022.
-- **2021-06-07**: I have started working at Bloomberg AI in New York.
-- **2021-05-24**: I passed my PhD dissertation defense!
+- **2024-05**: Attended NAACL 2024 in Mexico City
+- **2021-06**: I have started working at Bloomberg AI in New York.
+- **2021-05**: I passed my PhD dissertation defense!
 
 
 # Publication
+
+* __Modeling and Detecting Company Risks from News__ <br> Jiaxin Pei, Soumya Vadlamannati, Liang-Kang Huang, Daniel Preotiuc-Pietro, *Xinyu Hua* <br>
+NAACL 2024 (Industry Track)
+<br> [[pdf][naacl24_pdf]]
 
 * __Efficient Argument Structure Extraction with Transfer Learning and Active Learning__ <br> *Xinyu Hua* and Lu Wang <br> Findings of ACL 2022.
 <br> [[page][acl22_page]] [[pdf][acl22_pdf]] [[arxiv][acl22_arxiv]] [[slides][acl22_slides]] [[poster][acl22_poster]] [[data][acl22_data]] [[code][acl22_code]]
@@ -150,3 +154,5 @@ Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short pap
 [acl22_slides]: {{site.resourceurl}}/acl2022/slides.pdf
 [acl22_poster]: {{site.resourceurl}}/acl2022/acl2022_poster.pdf
 [acl22_code]: https://github.com/bloomberg/argument-relation-transformer-acl2022
+
+[naacl24_pdf]: https://aclanthology.org/2024.naacl-industry.6.pdf
