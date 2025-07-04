@@ -13,16 +13,7 @@ Previously, I received my B.Eng. in Computer Science from Shanghai Jiao Tong Uni
 
 ---
 
-# News
-
-- **Jul 2025** Will attend ACL 2025 in Vienna.
-- **May 2024:** Attended NAACL 2024 in Mexico City.  
-- **June 2021:** Joined Bloomberg AI, New York.  
-- **May 2021:** Defended PhD dissertation.  
-
----
-
-# Selected Publications
+# Selected Papers
 
 - **Modeling and Detecting Company Risks from News**  
   Jiaxin Pei, Soumya Vadlamannati, Liang-Kang Huang, Daniel Preotiuc-Pietro, **Xinyu Hua**  
