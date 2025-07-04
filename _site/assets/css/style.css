@@ -311,7 +311,7 @@ footer ul { list-style: none; }
 footer li { display: inline; margin: 2px; }
 footer .page-link { height: 10px; color: red; }
 
-@media print, screen and (max-width: 1060px) { div.wrapper { /* width:auto; */ width: 1200px; height: 200px; margin: 10px auto 10px; }
+@media print, screen and (max-width: 1060px) { div.wrapper { /* width:auto; */ width: auto; height: 200px; margin: 10px auto 10px; }
   nav { display: none; }
   header, section, wider-section, footer { float: none; }
   header h1, section h1, wider-section h1, footer h1 { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; -o-text-overflow: ellipsis; -ms-text-overflow: ellipsis; }
@@ -330,9 +330,9 @@ footer .page-link { height: 10px; color: red; }
   section { margin-top: 100px; margin-bottom: 0px; width: auto; }
   wider-section { margin-top: 100px; margin-bottom: 0px; width: auto; }
   header ul, header p.view { position: static; } }
-@media print, screen and (max-width: 480px) { header { position: relative; padding: 5px 0px; min-height: 0px; }
+@media print, screen and (max-width: 480px) { header { position: relative; padding: 5px 0px; min-height: 50px; }
   header h1 { font-size: 24px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; -o-text-overflow: ellipsis; -ms-text-overflow: ellipsis; }
-  section { margin-top: 15px; }
+  section { margin-top: 5px; }
   wider-section { margin-top: 15px; }
   #banner { display: none; }
   header ul { display: none; } }

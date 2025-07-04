@@ -5,154 +5,54 @@ sidebar: true
 
 # About
 
-I am a machine learning engineer at Bloomberg AI.
-I graduated from Northeastern University in 2021, under the supervision of [Lu Wang][lu_hp].
-During my PhD, my research focuses are text generation and argument mining.
-My CV can be downloaded [here][cv].
+I am a machine learning engineer at Bloomberg AI, focusing on text generation and argument mining.  
+I earned my PhD from Northeastern University in 2021, advised by [Lu Wang][lu_hp].  
+[Download CV][cv]
 
-I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, where I was supervised by [Kenny Q. Zhu](https://kenzhu2000.github.io/). <br>
+Previously, I received my B.Eng. in Computer Science from Shanghai Jiao Tong University, supervised by [Kenny Q. Zhu](https://kenzhu2000.github.io/).
+
+---
 
 # News
 
-- **2024-05**: Attended NAACL 2024 in Mexico City
-- **2021-06**: I have started working at Bloomberg AI in New York.
-- **2021-05**: I passed my PhD dissertation defense!
+- **Jul 2025** Will attend ACL 2025 in Vienna.
+- **May 2024:** Attended NAACL 2024 in Mexico City.  
+- **June 2021:** Joined Bloomberg AI, New York.  
+- **May 2021:** Defended PhD dissertation.  
 
+---
 
-# Publication
+# Selected Publications
 
-* __Modeling and Detecting Company Risks from News__ <br> Jiaxin Pei, Soumya Vadlamannati, Liang-Kang Huang, Daniel Preotiuc-Pietro, *Xinyu Hua* <br>
-NAACL 2024 (Industry Track)
-<br> [[pdf][naacl24_pdf]]
+- **Modeling and Detecting Company Risks from News**  
+  Jiaxin Pei, Soumya Vadlamannati, Liang-Kang Huang, Daniel Preotiuc-Pietro, **Xinyu Hua**  
+  NAACL 2024 (Industry Track) [[PDF][naacl24_pdf]]
 
-* __Efficient Argument Structure Extraction with Transfer Learning and Active Learning__ <br> *Xinyu Hua* and Lu Wang <br> Findings of ACL 2022.
-<br> [[page][acl22_page]] [[pdf][acl22_pdf]] [[arxiv][acl22_arxiv]] [[slides][acl22_slides]] [[poster][acl22_poster]] [[data][acl22_data]] [[code][acl22_code]]
+- **Efficient Argument Structure Extraction with Transfer Learning and Active Learning**  
+  **Xinyu Hua**, Lu Wang 
+  Findings of ACL 2022 [[PDF][acl22_pdf]] [[Code][acl22_code]]
 
+- **DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Opinion Text Generation**  
+  *Xinyu Hua, Ashwin Sreevatsa, Lu Wang*  
+  ACL 2021 [[PDF][acl21_pdf]]
 
-* __DYPLOC: Dynamic Planning of Content Using Mixed Language Models for Opinion Text Generation__ <br> *Xinyu Hua*, Ashwin Sreevatsa, and Lu Wang <br> Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021).
-<br> [[page][acl21_page]] [[pdf][acl21_pdf]] [[bibtex][acl21_bib]]
+- **PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation**  
+  *Xinyu Hua, Lu Wang*  
+  EMNLP 2020 [[PDF][emnlp20_pdf]]
 
-* __PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation__ <br> *Xinyu Hua* and Lu Wang <br>
-Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
-<br> [[page][emnlp20_page]] [[pdf][emnlp20_pdf]] [[arxiv][emnlp20_arxiv]] [[bibtex][emnlp20_bib]] [[slides][emnlp20_slides]]
-
-* __XREF: Entity Linking for Chinese News Comments with Supplementary Article Reference__ <br> *Xinyu Hua*, Lei Li, Lifeng Hua, Lu Wang <br>
-Proceedings of the Automated Knowledge Base Construction (AKBC 2020).
-<br> [[page][akbc20_page]] [[pdf][akbc20_pdf]] [[openreview][akbc20_or]] [[arxiv][akbc20_arxiv]] [[video][akbc20_video]] [[slides][akbc20_slides]]
-
-* __Sentence-Level Content Planning and Style Specification for Neural Text Generation__ <br> *Xinyu Hua* and Lu Wang <br>
-Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019).
-<br> [[page][emnlp19_page]] [[pdf][emnlp19_pdf]] [[arxiv][emnlp19_arxiv]] [[data][emnlp19_data]] [[bibtex][emnlp19_bib]] [[slides][emnlp19_slides]]
-
-* __Argument Generation with Retrieval, Planning, and Realization__ <br> *Xinyu Hua*, Zhe Hu, Lu Wang <br>
-Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019).
-<br> [[page][acl19_page]] [[pdf][acl19_pdf]] [[arxiv][acl19_arxiv]] [[data][acl19_data]] [[bibtex][acl19_bib]] [[slides][acl19_slides]] [[video][acl19_video]]
-
-* __Argument Mining for Understanding Peer Reviews__ <br> *Xinyu Hua*, Mitko Nikolov, Nikhil Badugu, Lu Wang <br>
-Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019), short paper
-<br> [[page][naacl19_page]] [[pdf][naacl19_pdf]] [[arxiv][naacl19_arxiv]] [[data][naacl19_data]] [[bibtex][naacl19_bib]] [[slides][naacl19_slides]] [[video][naacl19_video]]
-
-* __Neural Argument Generation Augmented with Externally Retrieved Evidence__ <br> *Xinyu Hua* and Lu Wang. <br>
-Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018).
-<br>[[pdf][acl18_pdf]] [[arxiv][acl18_arxiv]] [[bibtex][acl18_bib]] [[resource][acl17_data]]  [[appendix][acl18_supp]] [[slides][acl18_slides]] [[poster][acl18_poster]] [[video][acl18_video]]
-
-* __Understanding and Detecting Supporting Arguments of Diverse Types__ <br> *Xinyu Hua* and Lu Wang.<br>
-Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2017), short paper. *Outstanding paper*
-<br>[[pdf][acl17_pdf]] [[arxiv][acl17_arxiv]] [[bibtex][acl17_bib]] [[resource][acl17_data]][[post][acl17_post]][[errata][acl17_errata]] [[slides][acl17_slides]] [[video][acl17_video]]
-
-
-* __A Pilot Study of Domain Adaptation Effect for Neural Abstractive Summarization__ <br> *Xinyu Hua* and Lu Wang.<br>
-Proceedings of EMNLP 2017 Workshop on New Frontiers in Summarization , short paper, 2017.
-<br>[[pdf][emnlp17_pdf]][[arxiv][emnlp17_arxiv]][[bibtex][emnlp17_bib]][[poster][emnlp17_poster]][[data split][emnlp17_split]]
-
+---
 
 # Miscellaneous
 
-- **Services:** EMNLP 2020, AACL 2020, ACL 2020, AACL 2020, NAACL 2019, CoNLL 2019, AAAI 2018, EMNLP 2017
-- **Guest lecture:** CS 7180 Special Topics in AI: Deep Learning (2019), Northeastern University
-- **Invited presentation:** Amazon Research Day Boston, 2018
-- **(Human) languages:** Mandarin Chinese (native), English (proficient), Japanese (fluent)
+- **Service:** Reviewer for EMNLP, AACL, ACL, NAACL, CoNLL, AAAI.  
+- **Languages:** Mandarin (native), English (proficient), Japanese (fluent), German (beginner) 
 
+---
 
 [lu_hp]: http://www.ccs.neu.edu/home/luwang/
-[adapt_hp]: http://adapt.seiee.sjtu.edu.cn/
-[sjtu_hp]: http://www.sjtu.edu.cn/
-[avi_hp]: https://researcher.watson.ibm.com/researcher/view.php?person=us-avi
 [cv]: {{site.resourceurl}}/cv.pdf
-
-[acl17_pdf]: https://aclanthology.org/P17-2032.pdf
-[acl17_arxiv]: https://arxiv.org/abs/1705.00045
-[acl17_bib]: {{ site.resourceurl }}/bibtex/acl2017.bib
-[acl17_post]: {{ site.baseurl }}/2017/04/26/argument-type/
-[acl17_data]: {{ site.url }}/Resources
-[acl17_errata]: {{site.resourceurl}}/acl2017/acl2017_errata.pdf
-[acl17_slides]: {{site.resourceurl}}/acl2017/ACL.pdf
-[acl17_video]: https://vimeo.com/234946564
-
-
-[emnlp17_arxiv]: https://arxiv.org/abs/1707.07062
-[emnlp17_pdf]: https://aclanthology.org/W17-4513.pdf
-[emnlp17_poster]: {{ site.resourceurl }}/emnlp2017/emnlp2017_poster.pdf
-[emnlp17_bib]: {{ site.resourceurl }}/bibtex/emnlp2017.bib
-[emnlp17_split]: {{ site.resourceurl }}/emnlp2017/nyt_anno_guids.tar.gz
-
-[acl18_pdf]: https://aclanthology.org/P18-1021.pdf
-[acl18_bib]: {{ site.resourceurl }}/bibtex/acl2018.bib
-[acl18_supp]: {{ site.resourceurl }}/acl2018/acl2018_supp.pdf
-[acl18_arxiv]: https://arxiv.org/abs/1805.10254
-[acl18_data]: {{ site.url }}/Resources
-[acl18_slides]: {{site.resourceurl}}/acl2018/acl2018_slides.pdf
-[acl18_poster]: {{site.resourceurl}}/acl2018/acl2018_poster_ver1.pdf
-[acl18_video]: https://vimeo.com/285800652
-
-[naacl19_page]: /Resources/naacl19/
-[naacl19_pdf]: https://aclanthology.org/N19-1219.pdf
-[naacl19_data]: {{site.resourceurl}}/naacl2019/naacl19_dataset.zip
-[naacl19_bib]:  {{site.resourceurl}}/bibtex/naacl2019.bib
-[naacl19_slides]: {{site.resourceurl}}/naacl2019/slides_final.pdf
-[naacl19_arxiv]: https://arxiv.org/abs/1903.10104
-[naacl19_video]: https://vimeo.com/355808962
-
-[acl19_page]: /Resources/acl19/
-[acl19_pdf]: https://aclanthology.org/P19-1255.pdf
-[acl19_bib]: {{site.resourceurl}}/bibtex/acl2019.bib
-[acl19_arxiv]: https://arxiv.org/abs/1906.03717
-[acl19_slides]: {{site.resourceurl}}/acl2019/slides_final.pdf
-[acl19_data]: https://drive.google.com/drive/folders/1fl9uxfkplJtbEppx4XeJ77nI0Iov_ZYL?usp=sharing
-[acl19_video]: https://vimeo.com/384728654
-
-
-[emnlp19_page]: /Resources/emnlp19/
-[emnlp19_pdf]: https://aclanthology.org/D19-1055.pdf
-[emnlp19_arxiv]: https://arxiv.org/abs/1909.00734
-[emnlp19_data]: https://drive.google.com/open?id=1oR5JmlsTihG8t_0FjYTGGijSgGsB9Js_
-[emnlp19_bib]: {{site.resourceurl}}/bibtex/emnlp2019.bib
-[emnlp19_slides]: {{site.resourceurl}}/emnlp2019/slides_final.pdf
-
-[akbc20_page]: /Resources/akbc20/
-[akbc20_pdf]: https://www.akbc.ws/2020/assets/pdfs/1hLH6CKIjN.pdf
-[akbc20_or]: https://openreview.net/forum?id=1hLH6CKIjN
-[akbc20_video]: https://www.youtube.com/watch?v=XJCLlr3rdT0&feature=emb_logo
-[akbc20_slides]: {{site.resourceurl}}/akbc2020/akbc_slides.pdf
-[akbc20_arxiv]: https://arxiv.org/abs/2006.14017
-
-[emnlp20_page]: /Resources/emnlp20/
-[emnlp20_bib]: {{site.resourceurl}}/bibtex/emnlp2020.bib
-[emnlp20_pdf]: https://aclanthology.org/2020.emnlp-main.57.pdf
-[emnlp20_slides]: {{site.resourceurl}}/emnlp2020/emnlp2020_slides.pdf
-[emnlp20_arxiv]: https://arxiv.org/abs/2010.02301
-
-[acl21_page]: /Resources/acl21/
-[acl21_bib]: {{site.resourceurl}}/bibtex/acl2021.bib
-[acl21_pdf]: https://aclanthology.org/2021.acl-long.501.pdf
-
-[acl22_page]: /Resources/acl22/
-[acl22_bib]: {{site.resourceurl}}/bibtex/acl2022.bib
-[acl22_pdf]: https://aclanthology.org/2022.findings-acl.36.pdf
-[acl22_data]: https://zenodo.org/record/6362430#.Yki2-hDML0p
-[acl22_arxiv]: https://arxiv.org/abs/2204.00707
-[acl22_slides]: {{site.resourceurl}}/acl2022/slides.pdf
-[acl22_poster]: {{site.resourceurl}}/acl2022/acl2022_poster.pdf
-[acl22_code]: https://github.com/bloomberg/argument-relation-transformer-acl2022
-
 [naacl24_pdf]: https://aclanthology.org/2024.naacl-industry.6.pdf
+[acl22_pdf]: https://aclanthology.org/2022.findings-acl.36.pdf
+[acl22_code]: https://github.com/bloomberg/argument-relation-transformer-acl2022
+[acl21_pdf]: https://aclanthology.org/2021.acl-long.501.pdf
+[emnlp20_pdf]: https://aclanthology.org/2020.emnlp-main.57.pdf
